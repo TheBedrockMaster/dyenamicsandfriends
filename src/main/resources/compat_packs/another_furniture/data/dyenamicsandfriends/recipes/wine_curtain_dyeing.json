@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "curtains",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/wine"
+    },
+    {
+      "item": "another_furniture:white_curtain"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:another_furniture_wine_curtain"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "another_furniture"
+    }
+  ]
+}

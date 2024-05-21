@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:handcrafted_peach_sheet",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:handcrafted_aquamarine_sheet",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:handcrafted_bubblegum_sheet",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:handcrafted_cherenkov_sheet",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:handcrafted_lavender_sheet",
+      "id": "dyenamicsandfriends:handcrafted_mint_sheet",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:handcrafted_mint_sheet",
+      "id": "dyenamicsandfriends:handcrafted_bubblegum_sheet",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:handcrafted_peach_sheet",
+      "id": "dyenamicsandfriends:handcrafted_lavender_sheet",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:handcrafted_persimmon_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_cherenkov_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_amber_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_honey_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_icy_blue_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_navy_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_spring_green_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_ultramarine_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_rose_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_wine_sheet",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_conifer_sheet",
       "required": false
     }
   ]

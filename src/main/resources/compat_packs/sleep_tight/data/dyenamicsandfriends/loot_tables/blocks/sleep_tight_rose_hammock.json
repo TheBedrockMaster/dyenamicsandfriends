@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "dyenamicsandfriends:sleep_tight_rose_hammock",
+                  "properties": {
+                    "part": "head"
+                  }
+                }
+              ],
+              "name": "dyenamicsandfriends:sleep_tight_rose_hammock"
+            },
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "dyenamicsandfriends:sleep_tight_rose_hammock",
+                  "properties": {
+                    "part": "middle"
+                  }
+                }
+              ],
+              "name": "dyenamicsandfriends:sleep_tight_rose_hammock"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

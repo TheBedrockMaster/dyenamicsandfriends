@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "dyenamicsandfriends:block/regions_unexplored/wine_painted_planks",
+    "top": "dyenamicsandfriends:block/regions_unexplored/wine_painted_planks",
+    "side": "dyenamicsandfriends:block/regions_unexplored/wine_painted_planks"
+  }
+}

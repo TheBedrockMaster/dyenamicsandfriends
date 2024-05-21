@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hammock",
+  "pattern": [
+    "sws",
+    "sas",
+    "sws"
+  ],
+  "key": {
+    "a": {
+      "item": "dyenamics:amber_wool"
+    },
+    "s": {
+      "tag": "forge:string"
+    },
+    "w": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:comforts_amber_hammock"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "comforts"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "dyenamics:ultramarine_stained_glass"
+    },
+    "B": {
+      "tag": "forge:ingots/lead"
+    }
+  },
+  "result": {
+    "count": 8,
+    "item": "dyenamicsandfriends:oreganized_ultramarine_crystal_glass"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "oreganized"
+    }
+  ]
+}

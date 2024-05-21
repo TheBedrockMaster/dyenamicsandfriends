@@ -1,0 +1,14 @@
+{
+  "type": "furnish:furniture_making",
+  "ingredient": {
+    "item": "dyenamics:amber_carpet"
+  },
+  "result": "dyenamicsandfriends:furnish_amber_awning",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "furnish"
+    }
+  ]
+}

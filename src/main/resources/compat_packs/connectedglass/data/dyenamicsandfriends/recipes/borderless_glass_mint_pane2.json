@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "connectedglass:borderless_glass_pane"
+    },
+    "B": {
+      "tag": "forge:dyes/mint"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_borderless_glass_mint_pane",
+    "count": 8
+  }
+}

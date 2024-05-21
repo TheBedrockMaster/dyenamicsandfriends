@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:create_peach_seat",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:create_aquamarine_seat",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:create_bubblegum_seat",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:create_cherenkov_seat",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:create_lavender_seat",
+      "id": "dyenamicsandfriends:create_mint_seat",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:create_mint_seat",
+      "id": "dyenamicsandfriends:create_bubblegum_seat",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:create_peach_seat",
+      "id": "dyenamicsandfriends:create_lavender_seat",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:create_persimmon_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_cherenkov_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_amber_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_honey_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_icy_blue_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_navy_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_spring_green_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_ultramarine_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_rose_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_wine_seat",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_conifer_seat",
       "required": false
     }
   ]

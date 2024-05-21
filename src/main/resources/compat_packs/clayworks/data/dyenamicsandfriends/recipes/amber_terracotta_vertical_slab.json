@@ -1,0 +1,45 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "clayworks:config",
+              "value": "terracotta_variants"
+            },
+            {
+              "type": "blueprint:quark_flag",
+              "flag": "vertical_slabs"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "#": {
+            "item": "dyenamics:amber_terracotta"
+          }
+        },
+        "pattern": [
+          "#",
+          "#",
+          "#"
+        ],
+        "result": {
+          "count": 6,
+          "item": "dyenamicsandfriends:clayworks_amber_terracotta_vertical_slab"
+        }
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ]
+}

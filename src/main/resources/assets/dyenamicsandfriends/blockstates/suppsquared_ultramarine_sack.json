@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "open=false": {
+      "model": "dyenamicsandfriends:block/suppsquared/sacks/ultramarine_closed"
+    },
+    "open=true": {
+      "model": "dyenamicsandfriends:block/suppsquared/sacks/ultramarine_open"
+    }
+  }
+}

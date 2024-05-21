@@ -1,0 +1,14 @@
+{
+  "type": "furnish:furniture_making",
+  "ingredient": {
+    "item": "minecraft:paper"
+  },
+  "result": "dyenamicsandfriends:furnish_conifer_paper_lamp",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "furnish"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "connectedglass:pane_item_template",
+  "textures": {
+    "all": "dyenamicsandfriends:connectedglass/clear_glass/clear_glass_navy",
+    "edge": "dyenamicsandfriends:connectedglass/clear_glass/clear_glass_navy_edge"
+  }
+}

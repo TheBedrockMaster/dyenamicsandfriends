@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "connectedglass:tinted_borderless_glass"
+    },
+    "B": {
+      "tag": "forge:dyes/maroon"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_maroon",
+    "count": 8
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dyenamicsandfriends:block/clayworks/ultramarine_terracotta_brick_slab"
+    },
+    "type=double": {
+      "model": "dyenamicsandfriends:block/clayworks/ultramarine_terracotta_bricks"
+    },
+    "type=top": {
+      "model": "dyenamicsandfriends:block/clayworks/ultramarine_terracotta_brick_slab_top"
+    }
+  }
+}

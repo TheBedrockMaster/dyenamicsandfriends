@@ -1,0 +1,8 @@
+{
+  "parent": "another_furniture:block/template/lamp_tall_top_off",
+  "render_type": "cutout",
+  "textures": {
+    "top": "dyenamicsandfriends:block/another_furniture/lamp/rose_top",
+    "side": "dyenamicsandfriends:block/another_furniture/lamp/rose_side"
+  }
+}

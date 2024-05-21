@@ -1,0 +1,10 @@
+{
+  "parent": "supplementaries:block/sack_open",
+  "textures": {
+    "1": "dyenamicsandfriends:block/suppsquared/sacks/rose_sack_front",
+    "2": "dyenamicsandfriends:block/suppsquared/sacks/rose_sack_top",
+    "3": "dyenamicsandfriends:block/suppsquared/sacks/rose_sack_bottom",
+    "4": "dyenamicsandfriends:block/suppsquared/sacks/rose_sack_open",
+    "particle": "dyenamicsandfriends:block/suppsquared/sacks/rose_sack_front"
+  }
+}

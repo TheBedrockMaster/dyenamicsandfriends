@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1",
+    "2"
+  ],
+  "key": {
+    "1": {
+      "item": "dyenamics:wine_candle"
+    },
+    "2": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:suppsquared_wine_gold_candle_holder",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "suppsquared"
+    },
+    {
+      "type": "supplementaries:flag",
+      "flag": "candle_holder"
+    }
+  ]
+}

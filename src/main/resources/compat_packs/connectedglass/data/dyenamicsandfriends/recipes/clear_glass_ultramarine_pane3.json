@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "dyenamicsandfriends:connectedglass_clear_glass_ultramarine"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_clear_glass_ultramarine_pane",
+    "count": 16
+  }
+}

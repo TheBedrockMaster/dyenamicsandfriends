@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:glazedresymmetry_peach_centered_glazed_terracotta",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_centered_glazed_terracotta",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_centered_glazed_terracotta",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_centered_glazed_terracotta",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_lavender_centered_glazed_terracotta",
+      "id": "dyenamicsandfriends:glazedresymmetry_mint_centered_glazed_terracotta",
       "required": false
     },
     {
@@ -26,11 +22,11 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_mint_centered_glazed_terracotta",
+      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_centered_glazed_terracotta",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_peach_centered_glazed_terracotta",
+      "id": "dyenamicsandfriends:glazedresymmetry_lavender_centered_glazed_terracotta",
       "required": false
     },
     {
@@ -38,31 +34,43 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_glazed_terracotta_pillar",
+      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_centered_glazed_terracotta",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_glazed_terracotta_pillar",
+      "id": "dyenamicsandfriends:glazedresymmetry_amber_centered_glazed_terracotta",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_glazed_terracotta_pillar",
+      "id": "dyenamicsandfriends:glazedresymmetry_honey_centered_glazed_terracotta",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_glazed_terracotta_pillar",
+      "id": "dyenamicsandfriends:glazedresymmetry_icy_blue_centered_glazed_terracotta",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_lavender_glazed_terracotta_pillar",
+      "id": "dyenamicsandfriends:glazedresymmetry_navy_centered_glazed_terracotta",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_maroon_glazed_terracotta_pillar",
+      "id": "dyenamicsandfriends:glazedresymmetry_spring_green_centered_glazed_terracotta",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_mint_glazed_terracotta_pillar",
+      "id": "dyenamicsandfriends:glazedresymmetry_ultramarine_centered_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_rose_centered_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_wine_centered_glazed_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_conifer_centered_glazed_terracotta",
       "required": false
     },
     {
@@ -70,35 +78,71 @@
       "required": false
     },
     {
+      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_mint_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_maroon_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_lavender_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:glazedresymmetry_persimmon_glazed_terracotta_pillar",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_glazed_terracotta_pillar",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_amber_glazed_terracotta_pillar",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_honey_glazed_terracotta_pillar",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_icy_blue_glazed_terracotta_pillar",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_lavender_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_navy_glazed_terracotta_pillar",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_maroon_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_spring_green_glazed_terracotta_pillar",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_mint_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_ultramarine_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_rose_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_wine_glazed_terracotta_pillar",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_conifer_glazed_terracotta_pillar",
       "required": false
     },
     {
@@ -106,35 +150,71 @@
       "required": false
     },
     {
+      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_mint_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_maroon_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_lavender_glazed_terracotta_slab",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:glazedresymmetry_persimmon_glazed_terracotta_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_glazed_terracotta_pillar_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_glazed_terracotta_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_glazed_terracotta_pillar_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_amber_glazed_terracotta_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_glazed_terracotta_pillar_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_honey_glazed_terracotta_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_glazed_terracotta_pillar_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_icy_blue_glazed_terracotta_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_lavender_glazed_terracotta_pillar_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_navy_glazed_terracotta_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_maroon_glazed_terracotta_pillar_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_spring_green_glazed_terracotta_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_mint_glazed_terracotta_pillar_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_ultramarine_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_rose_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_wine_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_conifer_glazed_terracotta_slab",
       "required": false
     },
     {
@@ -142,35 +222,71 @@
       "required": false
     },
     {
+      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_mint_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_maroon_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_lavender_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:glazedresymmetry_persimmon_glazed_terracotta_pillar_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_glazed_terracotta_pillar_side_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_glazed_terracotta_pillar_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_glazed_terracotta_pillar_side_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_amber_glazed_terracotta_pillar_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_glazed_terracotta_pillar_side_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_honey_glazed_terracotta_pillar_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_glazed_terracotta_pillar_side_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_icy_blue_glazed_terracotta_pillar_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_lavender_glazed_terracotta_pillar_side_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_navy_glazed_terracotta_pillar_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_maroon_glazed_terracotta_pillar_side_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_spring_green_glazed_terracotta_pillar_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_mint_glazed_terracotta_pillar_side_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_ultramarine_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_rose_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_wine_glazed_terracotta_pillar_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_conifer_glazed_terracotta_pillar_slab",
       "required": false
     },
     {
@@ -178,35 +294,71 @@
       "required": false
     },
     {
+      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_mint_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_maroon_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_lavender_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:glazedresymmetry_persimmon_glazed_terracotta_pillar_side_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_centered_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_glazed_terracotta_pillar_side_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_centered_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_amber_glazed_terracotta_pillar_side_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_centered_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_honey_glazed_terracotta_pillar_side_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_centered_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_icy_blue_glazed_terracotta_pillar_side_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_lavender_centered_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_navy_glazed_terracotta_pillar_side_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_maroon_centered_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_spring_green_glazed_terracotta_pillar_side_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:glazedresymmetry_mint_centered_glazed_terracotta_slab",
+      "id": "dyenamicsandfriends:glazedresymmetry_ultramarine_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_rose_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_wine_glazed_terracotta_pillar_side_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_conifer_glazed_terracotta_pillar_side_slab",
       "required": false
     },
     {
@@ -214,7 +366,71 @@
       "required": false
     },
     {
+      "id": "dyenamicsandfriends:glazedresymmetry_aquamarine_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_fluorescent_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_mint_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_maroon_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_bubblegum_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_lavender_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:glazedresymmetry_persimmon_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_cherenkov_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_amber_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_honey_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_icy_blue_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_navy_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_spring_green_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_ultramarine_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_rose_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_wine_centered_glazed_terracotta_slab",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:glazedresymmetry_conifer_centered_glazed_terracotta_slab",
       "required": false
     }
   ]

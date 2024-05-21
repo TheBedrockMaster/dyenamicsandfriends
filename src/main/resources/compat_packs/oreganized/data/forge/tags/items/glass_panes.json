@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:oreganized_peach_crystal_glass_pane",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:oreganized_aquamarine_crystal_glass_pane",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:oreganized_bubblegum_crystal_glass_pane",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:oreganized_cherenkov_crystal_glass_pane",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_lavender_crystal_glass_pane",
+      "id": "dyenamicsandfriends:oreganized_mint_crystal_glass_pane",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_mint_crystal_glass_pane",
+      "id": "dyenamicsandfriends:oreganized_bubblegum_crystal_glass_pane",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_peach_crystal_glass_pane",
+      "id": "dyenamicsandfriends:oreganized_lavender_crystal_glass_pane",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:oreganized_persimmon_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_cherenkov_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_amber_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_honey_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_icy_blue_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_navy_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_spring_green_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_ultramarine_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_rose_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_wine_crystal_glass_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_conifer_crystal_glass_pane",
       "required": false
     }
   ]

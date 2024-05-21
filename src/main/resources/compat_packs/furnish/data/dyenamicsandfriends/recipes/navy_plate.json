@@ -1,0 +1,14 @@
+{
+  "type": "furnish:furniture_making",
+  "ingredient": {
+    "item": "dyenamics:navy_terracotta"
+  },
+  "result": "dyenamicsandfriends:furnish_navy_plate",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "furnish"
+    }
+  ]
+}

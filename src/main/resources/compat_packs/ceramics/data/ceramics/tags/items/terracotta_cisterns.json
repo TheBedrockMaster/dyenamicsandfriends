@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:ceramics_peach_terracotta_cistern",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:ceramics_aquamarine_terracotta_cistern",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:ceramics_bubblegum_terracotta_cistern",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:ceramics_cherenkov_terracotta_cistern",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:ceramics_lavender_terracotta_cistern",
+      "id": "dyenamicsandfriends:ceramics_mint_terracotta_cistern",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:ceramics_mint_terracotta_cistern",
+      "id": "dyenamicsandfriends:ceramics_bubblegum_terracotta_cistern",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:ceramics_peach_terracotta_cistern",
+      "id": "dyenamicsandfriends:ceramics_lavender_terracotta_cistern",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:ceramics_persimmon_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_cherenkov_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_amber_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_honey_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_icy_blue_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_navy_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_spring_green_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_ultramarine_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_rose_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_wine_terracotta_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_conifer_terracotta_cistern",
       "required": false
     }
   ]

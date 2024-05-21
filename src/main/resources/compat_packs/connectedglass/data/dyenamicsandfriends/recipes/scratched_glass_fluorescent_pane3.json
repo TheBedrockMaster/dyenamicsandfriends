@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "dyenamicsandfriends:connectedglass_scratched_glass_fluorescent"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_scratched_glass_fluorescent_pane",
+    "count": 16
+  }
+}

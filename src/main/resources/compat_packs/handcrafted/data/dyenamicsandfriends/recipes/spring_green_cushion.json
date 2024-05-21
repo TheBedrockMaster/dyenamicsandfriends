@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cushion",
+  "key": {
+    "#": {
+      "item": "dyenamics:spring_green_wool"
+    },
+    "/": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "###",
+    "///",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "dyenamicsandfriends:handcrafted_spring_green_cushion"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "handcrafted"
+    }
+  ]
+}

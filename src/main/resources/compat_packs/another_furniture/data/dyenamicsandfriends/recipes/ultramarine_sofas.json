@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sofas",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "/": {
+      "tag": "forge:rods/wooden"
+    },
+    "W": {
+      "item": "dyenamics:ultramarine_wool"
+    }
+  },
+  "pattern": [
+    "#W ",
+    "#WW",
+    "/ /"
+  ],
+  "result": {
+    "count": 3,
+    "item": "dyenamicsandfriends:another_furniture_ultramarine_sofa"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "another_furniture"
+    }
+  ]
+}

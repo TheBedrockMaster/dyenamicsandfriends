@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sheet",
+  "key": {
+    "#": {
+      "item": "dyenamics:conifer_wool"
+    }
+  },
+  "pattern": [
+    "   ",
+    "###",
+    "   "
+  ],
+  "result": {
+    "count": 8,
+    "item": "dyenamicsandfriends:handcrafted_conifer_sheet"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "handcrafted"
+    }
+  ]
+}

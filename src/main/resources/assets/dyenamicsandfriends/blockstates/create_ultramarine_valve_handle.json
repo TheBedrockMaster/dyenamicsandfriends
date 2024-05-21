@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "dyenamicsandfriends:block/create/ultramarine_valve_handle",
+      "x": 180
+    },
+    "facing=up": {
+      "model": "dyenamicsandfriends:block/create/ultramarine_valve_handle"
+    },
+    "facing=north": {
+      "model": "dyenamicsandfriends:block/create/ultramarine_valve_handle",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "dyenamicsandfriends:block/create/ultramarine_valve_handle",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dyenamicsandfriends:block/create/ultramarine_valve_handle",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "dyenamicsandfriends:block/create/ultramarine_valve_handle",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

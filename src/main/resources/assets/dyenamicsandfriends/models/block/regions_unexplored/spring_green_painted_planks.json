@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dyenamicsandfriends:block/regions_unexplored/spring_green_painted_planks"
+  }
+}

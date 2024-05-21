@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:elevatorid_peach_elevator",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:elevatorid_aquamarine_elevator",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:elevatorid_bubblegum_elevator",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:elevatorid_cherenkov_elevator",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:elevatorid_lavender_elevator",
+      "id": "dyenamicsandfriends:elevatorid_mint_elevator",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:elevatorid_mint_elevator",
+      "id": "dyenamicsandfriends:elevatorid_bubblegum_elevator",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:elevatorid_peach_elevator",
+      "id": "dyenamicsandfriends:elevatorid_lavender_elevator",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:elevatorid_persimmon_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_cherenkov_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_amber_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_honey_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_icy_blue_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_navy_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_spring_green_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_ultramarine_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_rose_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_wine_elevator",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:elevatorid_conifer_elevator",
       "required": false
     }
   ]

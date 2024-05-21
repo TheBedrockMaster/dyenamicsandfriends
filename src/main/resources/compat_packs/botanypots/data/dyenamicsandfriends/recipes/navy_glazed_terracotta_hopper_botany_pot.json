@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyenamicsandfriends:botanypots_navy_glazed_terracotta_botany_pot"
+    },
+    {
+      "item": "minecraft:hopper"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:botanypots_navy_glazed_terracotta_hopper_botany_pot",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botanypots"
+    }
+  ]
+}

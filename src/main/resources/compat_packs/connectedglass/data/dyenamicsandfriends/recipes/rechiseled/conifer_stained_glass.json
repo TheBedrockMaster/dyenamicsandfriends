@@ -1,0 +1,22 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "connecting_item": "connectedglass:borderless_glass_conifer",
+      "item": "dyenamics:conifer_stained_glass"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_clear_glass_conifer"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_scratched_glass_conifer"
+    }
+  ],
+  "overwrite": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rechiseled"
+    }
+  ]
+}

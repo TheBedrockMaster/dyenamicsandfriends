@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:supplementaries_peach_present",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:supplementaries_aquamarine_present",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:supplementaries_bubblegum_present",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:supplementaries_cherenkov_present",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:supplementaries_lavender_present",
+      "id": "dyenamicsandfriends:supplementaries_mint_present",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:supplementaries_mint_present",
+      "id": "dyenamicsandfriends:supplementaries_bubblegum_present",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:supplementaries_peach_present",
+      "id": "dyenamicsandfriends:supplementaries_lavender_present",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:supplementaries_persimmon_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_cherenkov_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_amber_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_honey_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_icy_blue_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_navy_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_spring_green_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_ultramarine_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_rose_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_wine_present",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_conifer_present",
       "required": false
     }
   ]

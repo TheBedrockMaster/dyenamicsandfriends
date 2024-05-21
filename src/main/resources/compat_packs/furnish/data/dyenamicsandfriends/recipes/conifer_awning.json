@@ -1,0 +1,14 @@
+{
+  "type": "furnish:furniture_making",
+  "ingredient": {
+    "item": "dyenamics:conifer_carpet"
+  },
+  "result": "dyenamicsandfriends:furnish_conifer_awning",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "furnish"
+    }
+  ]
+}

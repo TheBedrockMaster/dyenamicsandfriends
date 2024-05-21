@@ -1,0 +1,7 @@
+{
+  "parent": "connectedglass:pane_item_template",
+  "textures": {
+    "all": "dyenamicsandfriends:connectedglass/scratched_glass/scratched_glass_fluorescent",
+    "edge": "dyenamicsandfriends:connectedglass/scratched_glass/scratched_glass_fluorescent_edge"
+  }
+}

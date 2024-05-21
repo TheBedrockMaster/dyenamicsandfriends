@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "curtains",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/rose"
+    },
+    {
+      "item": "another_furniture:white_curtain"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:another_furniture_rose_curtain"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "another_furniture"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dyenamicsandfriends:block/clayworks/ultramarine_terracotta_bricks"
+  }
+}

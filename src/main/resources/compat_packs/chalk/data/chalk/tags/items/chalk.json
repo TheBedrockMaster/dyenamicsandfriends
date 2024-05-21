@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:chalk_peach_chalk",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:chalk_aquamarine_chalk",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:chalk_bubblegum_chalk",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:chalk_cherenkov_chalk",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:chalk_lavender_chalk",
+      "id": "dyenamicsandfriends:chalk_mint_chalk",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:chalk_mint_chalk",
+      "id": "dyenamicsandfriends:chalk_bubblegum_chalk",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:chalk_peach_chalk",
+      "id": "dyenamicsandfriends:chalk_lavender_chalk",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:chalk_persimmon_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_cherenkov_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_amber_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_honey_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_icy_blue_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_navy_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_spring_green_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_ultramarine_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_rose_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_wine_chalk",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_conifer_chalk",
       "required": false
     }
   ]

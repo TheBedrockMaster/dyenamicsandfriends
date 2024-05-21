@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sleeping_bag",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dyenamics:amber_wool"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:comforts_amber_sleeping_bag"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "comforts"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "render_type": "translucent",
+  "textures": {
+    "all": "dyenamicsandfriends:block/oreganized/icy_blue_crystal_glass_rot"
+  }
+}

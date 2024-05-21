@@ -1,0 +1,36 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "clayworks:config",
+          "value": "terracotta_variants"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "#": {
+            "item": "dyenamics:navy_terracotta"
+          }
+        },
+        "pattern": [
+          "#  ",
+          "## ",
+          "###"
+        ],
+        "result": {
+          "count": 4,
+          "item": "dyenamicsandfriends:clayworks_navy_terracotta_stairs"
+        }
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ]
+}

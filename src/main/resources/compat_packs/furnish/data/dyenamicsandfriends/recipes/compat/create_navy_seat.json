@@ -1,0 +1,18 @@
+{
+  "type": "furnish:furniture_making",
+  "ingredient": {
+    "item": "dyenamics:navy_wool"
+  },
+  "result": "dyenamicsandfriends:create_navy_seat",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "furnish"
+    }
+  ]
+}

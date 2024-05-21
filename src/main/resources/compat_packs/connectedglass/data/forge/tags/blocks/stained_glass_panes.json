@@ -1,0 +1,221 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_peach_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_aquamarine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_fluorescent_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_mint_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_maroon_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_bubblegum_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_lavender_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_persimmon_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_cherenkov_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_amber_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_honey_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_icy_blue_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_navy_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_spring_green_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_ultramarine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_rose_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_wine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_borderless_glass_conifer_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_peach_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_aquamarine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_fluorescent_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_mint_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_maroon_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_bubblegum_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_lavender_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_persimmon_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_cherenkov_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_amber_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_honey_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_icy_blue_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_navy_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_spring_green_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_ultramarine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_rose_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_wine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_scratched_glass_conifer_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_peach_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_aquamarine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_fluorescent_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_mint_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_maroon_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_bubblegum_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_lavender_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_persimmon_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_cherenkov_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_amber_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_honey_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_icy_blue_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_navy_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_spring_green_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_ultramarine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_rose_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_wine_pane",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_clear_glass_conifer_pane",
+      "required": false
+    }
+  ]
+}

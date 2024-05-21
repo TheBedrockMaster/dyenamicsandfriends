@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "curtains",
+  "key": {
+    "/": {
+      "tag": "forge:rods/wooden"
+    },
+    "W": {
+      "item": "dyenamics:honey_wool"
+    }
+  },
+  "pattern": [
+    "//",
+    "WW",
+    "WW"
+  ],
+  "result": {
+    "count": 3,
+    "item": "dyenamicsandfriends:another_furniture_honey_curtain"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "another_furniture"
+    }
+  ]
+}

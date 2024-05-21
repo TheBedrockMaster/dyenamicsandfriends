@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dyenamicsandfriends:item/farmersdelight/rose_canvas_sign"
+  }
+}

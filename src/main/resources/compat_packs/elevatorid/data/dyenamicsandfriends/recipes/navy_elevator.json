@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "elevator",
+  "pattern": [
+    "WWW",
+    "WEW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "dyenamics:navy_wool"
+    },
+    "E":{
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:elevatorid_navy_elevator"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "elevatorid"
+    }
+  ]
+}

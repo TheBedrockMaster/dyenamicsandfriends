@@ -1,6 +1,7 @@
 {
-  "parent": "handcrafted:block/cushion/cushion",
+  "parent": "handcrafted:block/cushion",
   "textures": {
+    "particle": "dyenamics:block/persimmon_wool",
     "texture": "dyenamicsandfriends:block/handcrafted/cushion/persimmon_cushion"
   }
 }

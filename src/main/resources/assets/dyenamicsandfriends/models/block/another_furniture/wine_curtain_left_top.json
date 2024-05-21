@@ -1,0 +1,6 @@
+{
+    "parent": "another_furniture:block/template/curtain_left_top",
+    "textures": {
+        "curtain": "dyenamicsandfriends:block/another_furniture/curtain/wine_open_top"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "dyenamicsandfriends:block/quark/shingles/spring_green",
+    "top": "dyenamicsandfriends:block/quark/shingles/spring_green",
+    "side": "dyenamicsandfriends:block/quark/shingles/spring_green"
+  }
+}

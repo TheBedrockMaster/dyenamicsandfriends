@@ -1,14 +1,23 @@
 {
   "replace": false,
   "entries": [
-    "dyenamicsandfriends:aquamarine_shard",
-    "dyenamicsandfriends:bubblegum_shard",
-    "dyenamicsandfriends:cherenkov_shard",
-    "dyenamicsandfriends:fluorescent_shard",
-    "dyenamicsandfriends:lavender_shard",
-    "dyenamicsandfriends:maroon_shard",
-    "dyenamicsandfriends:mint_shard",
-    "dyenamicsandfriends:peach_shard",
-    "dyenamicsandfriends:persimmon_shard"
+    "dyenamicsandfriends:quark_amber_shard",
+    "dyenamicsandfriends:quark_aquamarine_shard",
+    "dyenamicsandfriends:quark_bubblegum_shard",
+    "dyenamicsandfriends:quark_cherenkov_shard",
+    "dyenamicsandfriends:quark_conifer_shard",
+    "dyenamicsandfriends:quark_fluorescent_shard",
+    "dyenamicsandfriends:quark_honey_shard",
+    "dyenamicsandfriends:quark_icy_blue_shard",
+    "dyenamicsandfriends:quark_lavender_shard",
+    "dyenamicsandfriends:quark_maroon_shard",
+    "dyenamicsandfriends:quark_mint_shard",
+    "dyenamicsandfriends:quark_navy_shard",
+    "dyenamicsandfriends:quark_peach_shard",
+    "dyenamicsandfriends:quark_persimmon_shard",
+    "dyenamicsandfriends:quark_rose_shard",
+    "dyenamicsandfriends:quark_spring_green_shard",
+    "dyenamicsandfriends:quark_ultramarine_shard",
+    "dyenamicsandfriends:quark_wine_shard"
   ]
 }

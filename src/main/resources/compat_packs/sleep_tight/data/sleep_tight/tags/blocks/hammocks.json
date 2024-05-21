@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:sleep_tight_peach_hammock",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:sleep_tight_aquamarine_hammock",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:sleep_tight_bubblegum_hammock",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:sleep_tight_cherenkov_hammock",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:sleep_tight_lavender_hammock",
+      "id": "dyenamicsandfriends:sleep_tight_mint_hammock",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:sleep_tight_mint_hammock",
+      "id": "dyenamicsandfriends:sleep_tight_bubblegum_hammock",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:sleep_tight_peach_hammock",
+      "id": "dyenamicsandfriends:sleep_tight_lavender_hammock",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:sleep_tight_persimmon_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_cherenkov_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_amber_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_honey_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_icy_blue_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_navy_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_spring_green_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_ultramarine_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_rose_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_wine_hammock",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:sleep_tight_conifer_hammock",
       "required": false
     }
   ]

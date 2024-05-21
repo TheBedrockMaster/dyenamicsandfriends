@@ -1,0 +1,47 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "tag": "forge:dyes/icy_blue"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:quark_icy_blue_framed_glass",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    },
+    {
+      "type": "quark:flag",
+      "flag": "framed_glass"
+    }
+  ]
+}

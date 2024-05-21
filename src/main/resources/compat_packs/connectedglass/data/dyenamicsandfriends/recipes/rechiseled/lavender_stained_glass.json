@@ -1,0 +1,22 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "connecting_item": "connectedglass:borderless_glass_lavender",
+      "item": "dyenamics:lavender_stained_glass"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_clear_glass_lavender"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_scratched_glass_lavender"
+    }
+  ],
+  "overwrite": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rechiseled"
+    }
+  ]
+}

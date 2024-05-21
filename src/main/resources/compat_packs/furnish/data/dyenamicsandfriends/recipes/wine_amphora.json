@@ -1,0 +1,14 @@
+{
+  "type": "furnish:furniture_making",
+  "ingredient": {
+    "item": "dyenamics:wine_terracotta"
+  },
+  "result": "dyenamicsandfriends:furnish_wine_amphora",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "furnish"
+    }
+  ]
+}

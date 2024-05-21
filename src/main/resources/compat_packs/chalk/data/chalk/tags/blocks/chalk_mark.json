@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:chalk_peach_chalk_mark",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:chalk_aquamarine_chalk_mark",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:chalk_bubblegum_chalk_mark",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:chalk_cherenkov_chalk_mark",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:chalk_lavender_chalk_mark",
+      "id": "dyenamicsandfriends:chalk_mint_chalk_mark",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:chalk_mint_chalk_mark",
+      "id": "dyenamicsandfriends:chalk_bubblegum_chalk_mark",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:chalk_peach_chalk_mark",
+      "id": "dyenamicsandfriends:chalk_lavender_chalk_mark",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:chalk_persimmon_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_cherenkov_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_amber_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_honey_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_icy_blue_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_navy_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_spring_green_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_ultramarine_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_rose_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_wine_chalk_mark",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:chalk_conifer_chalk_mark",
       "required": false
     }
   ]

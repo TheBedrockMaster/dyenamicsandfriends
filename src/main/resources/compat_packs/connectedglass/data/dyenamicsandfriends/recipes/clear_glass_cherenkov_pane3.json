@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "dyenamicsandfriends:connectedglass_clear_glass_cherenkov"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_clear_glass_cherenkov_pane",
+    "count": 16
+  }
+}

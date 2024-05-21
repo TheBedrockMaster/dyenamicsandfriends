@@ -1,0 +1,6 @@
+{
+    "parent": "another_furniture:block/template/curtain_middle",
+    "textures": {
+        "curtain": "dyenamicsandfriends:block/another_furniture/curtain/ultramarine_middle"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "render_type": "translucent",
+  "textures": {
+    "all": "dyenamicsandfriends:block/quark/framed_glass/icy_blue"
+  }
+}

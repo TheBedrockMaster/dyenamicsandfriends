@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hammock",
+  "pattern": [
+    "sws",
+    "sas",
+    "sws"
+  ],
+  "key": {
+    "a": {
+      "item": "dyenamics:spring_green_wool"
+    },
+    "s": {
+      "tag": "forge:string"
+    },
+    "w": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:comforts_spring_green_hammock"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "comforts"
+    }
+  ]
+}

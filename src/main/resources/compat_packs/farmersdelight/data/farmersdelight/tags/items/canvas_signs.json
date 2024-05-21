@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:farmersdelight_peach_canvas_sign",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:farmersdelight_aquamarine_canvas_sign",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:farmersdelight_bubblegum_canvas_sign",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:farmersdelight_cherenkov_canvas_sign",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:farmersdelight_lavender_canvas_sign",
+      "id": "dyenamicsandfriends:farmersdelight_mint_canvas_sign",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:farmersdelight_mint_canvas_sign",
+      "id": "dyenamicsandfriends:farmersdelight_bubblegum_canvas_sign",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:farmersdelight_peach_canvas_sign",
+      "id": "dyenamicsandfriends:farmersdelight_lavender_canvas_sign",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:farmersdelight_persimmon_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_cherenkov_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_amber_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_honey_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_icy_blue_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_navy_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_spring_green_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_ultramarine_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_rose_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_wine_canvas_sign",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:farmersdelight_conifer_canvas_sign",
       "required": false
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "parent": "another_furniture:block/template/sofa_outer",
+  "render_type": "cutout",
+  "textures": {
+    "seat_top": "dyenamicsandfriends:block/another_furniture/sofa/rose_seat_corner",
+    "seat_front": "dyenamicsandfriends:block/another_furniture/sofa/rose_seat_front",
+    "seat_side": "dyenamicsandfriends:block/another_furniture/sofa/rose_seat_side",
+    "seat_back_1": "dyenamicsandfriends:block/another_furniture/sofa/rose_seat_back_1",
+    "seat_back_2": "dyenamicsandfriends:block/another_furniture/sofa/rose_seat_back_2",
+    "back": "dyenamicsandfriends:block/another_furniture/sofa/rose_back"
+  }
+}

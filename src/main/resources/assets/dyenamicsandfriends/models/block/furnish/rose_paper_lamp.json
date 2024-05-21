@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:block/paper/paper_lamp",
+  "textures": {
+    "side": "dyenamicsandfriends:block/furnish/paper/rose_paper_lamp_side",
+    "top": "dyenamicsandfriends:block/furnish/paper/rose_paper_lamp_top"
+  }
+}

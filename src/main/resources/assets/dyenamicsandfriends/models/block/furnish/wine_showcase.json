@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:block/showcase/showcase",
+  "render_type": "translucent",
+  "textures": {
+    "wool": "dyenamics:block/wine_wool"
+  }
+}

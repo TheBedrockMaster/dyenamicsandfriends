@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:quark_peach_shingles_vertical_slab",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:quark_aquamarine_shingles_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:quark_bubblegum_shingles_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:quark_cherenkov_shingles_vertical_slab",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:quark_lavender_shingles_vertical_slab",
+      "id": "dyenamicsandfriends:quark_mint_shingles_vertical_slab",
       "required": false
     },
     {
@@ -26,11 +22,11 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:quark_mint_shingles_vertical_slab",
+      "id": "dyenamicsandfriends:quark_bubblegum_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:quark_peach_shingles_vertical_slab",
+      "id": "dyenamicsandfriends:quark_lavender_shingles_vertical_slab",
       "required": false
     },
     {
@@ -38,75 +34,43 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_aquamarine_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_cherenkov_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_bubblegum_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_amber_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_cherenkov_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_honey_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_fluorescent_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_icy_blue_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_lavender_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_navy_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_maroon_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_spring_green_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_mint_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_ultramarine_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_peach_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_rose_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_persimmon_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:quark_wine_shingles_vertical_slab",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_aquamarine_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_bubblegum_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_cherenkov_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_fluorescent_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_lavender_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_maroon_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_mint_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_peach_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_persimmon_terracotta_brick_vertical_slab",
+      "id": "dyenamicsandfriends:quark_conifer_shingles_vertical_slab",
       "required": false
     }
   ]

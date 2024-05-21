@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:handcrafted_peach_cushion",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:handcrafted_aquamarine_cushion",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:handcrafted_bubblegum_cushion",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:handcrafted_cherenkov_cushion",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:handcrafted_lavender_cushion",
+      "id": "dyenamicsandfriends:handcrafted_mint_cushion",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:handcrafted_mint_cushion",
+      "id": "dyenamicsandfriends:handcrafted_bubblegum_cushion",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:handcrafted_peach_cushion",
+      "id": "dyenamicsandfriends:handcrafted_lavender_cushion",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:handcrafted_persimmon_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_cherenkov_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_amber_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_honey_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_icy_blue_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_navy_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_spring_green_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_ultramarine_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_rose_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_wine_cushion",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:handcrafted_conifer_cushion",
       "required": false
     }
   ]

@@ -1,0 +1,10 @@
+{
+  "parent": "supplementaries:block/sack_closed",
+  "textures": {
+    "1": "dyenamicsandfriends:block/suppsquared/sacks/icy_blue_sack_front",
+    "2": "dyenamicsandfriends:block/suppsquared/sacks/icy_blue_sack_top",
+    "3": "dyenamicsandfriends:block/suppsquared/sacks/icy_blue_sack_bottom",
+    "4": "dyenamicsandfriends:block/suppsquared/sacks/icy_blue_sack_closed",
+    "particle": "dyenamicsandfriends:block/suppsquared/sacks/icy_blue_sack_front"
+  }
+}

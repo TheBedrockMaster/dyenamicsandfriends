@@ -1,0 +1,6 @@
+{
+    "parent": "another_furniture:block/template/curtain_closed_bottom",
+    "textures": {
+        "curtain": "dyenamicsandfriends:block/another_furniture/curtain/navy_closed_bottom"
+    }
+}

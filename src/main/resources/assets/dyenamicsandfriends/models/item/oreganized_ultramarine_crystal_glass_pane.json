@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dyenamicsandfriends:block/oreganized/ultramarine_crystal_glass"
+  }
+}

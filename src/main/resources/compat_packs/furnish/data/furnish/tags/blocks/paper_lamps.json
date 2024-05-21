@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:furnish_peach_paper_lamp",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:furnish_aquamarine_paper_lamp",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_bubblegum_paper_lamp",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_cherenkov_paper_lamp",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_lavender_paper_lamp",
+      "id": "dyenamicsandfriends:furnish_mint_paper_lamp",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_mint_paper_lamp",
+      "id": "dyenamicsandfriends:furnish_bubblegum_paper_lamp",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_peach_paper_lamp",
+      "id": "dyenamicsandfriends:furnish_lavender_paper_lamp",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:furnish_persimmon_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_cherenkov_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_amber_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_honey_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_icy_blue_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_navy_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_spring_green_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_ultramarine_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_rose_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_wine_paper_lamp",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_conifer_paper_lamp",
       "required": false
     }
   ]

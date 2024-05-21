@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "dyenamics:block/rose_terracotta",
+    "side": "dyenamics:block/rose_terracotta",
+    "top": "dyenamics:block/rose_terracotta"
+  }
+}

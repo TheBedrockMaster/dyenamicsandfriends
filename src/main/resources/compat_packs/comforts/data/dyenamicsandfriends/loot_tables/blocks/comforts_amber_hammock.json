@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "dyenamicsandfriends:optional_loot_item",
+          "conditions": [
+            {
+              "condition": "dyenamicsandfriends:optional_block_state_property",
+              "block": "dyenamicsandfriends:comforts_amber_hammock",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "dyenamicsandfriends:comforts_amber_hammock"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

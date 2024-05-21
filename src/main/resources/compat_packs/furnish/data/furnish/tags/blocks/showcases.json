@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:furnish_peach_showcase",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:furnish_aquamarine_showcase",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_bubblegum_showcase",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_cherenkov_showcase",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_lavender_showcase",
+      "id": "dyenamicsandfriends:furnish_mint_showcase",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_mint_showcase",
+      "id": "dyenamicsandfriends:furnish_bubblegum_showcase",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_peach_showcase",
+      "id": "dyenamicsandfriends:furnish_lavender_showcase",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:furnish_persimmon_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_cherenkov_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_amber_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_honey_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_icy_blue_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_navy_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_spring_green_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_ultramarine_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_rose_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_wine_showcase",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_conifer_showcase",
       "required": false
     }
   ]

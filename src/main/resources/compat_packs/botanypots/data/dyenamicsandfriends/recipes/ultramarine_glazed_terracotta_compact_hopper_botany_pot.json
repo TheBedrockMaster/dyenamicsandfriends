@@ -1,0 +1,29 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "SHS",
+    "SPS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "dyenamics:ultramarine_glazed_terracotta"
+    },
+    "P": {
+      "item": "minecraft:flower_pot"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:botanypots_ultramarine_glazed_terracotta_hopper_botany_pot",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botanypots"
+    }
+  ]
+}

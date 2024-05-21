@@ -1,14 +1,77 @@
 {
   "replace": false,
   "values": [
-    "dyenamics:aquamarine_terracotta",
-    "dyenamics:bubblegum_terracotta",
-    "dyenamics:cherenkov_terracotta",
-    "dyenamics:fluorescent_terracotta",
-    "dyenamics:lavender_terracotta",
-    "dyenamics:maroon_terracotta",
-    "dyenamics:mint_terracotta",
-    "dyenamics:peach_terracotta",
-    "dyenamics:persimmon_terracotta"
+    {
+      "id": "dyenamicsandfriends:peach_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:aquamarine_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:fluorescent_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:mint_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:maroon_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:bubblegum_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:lavender_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:persimmon_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:cherenkov_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:amber_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:honey_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:icy_blue_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:navy_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:spring_green_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ultramarine_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:rose_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:wine_terracotta",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:conifer_terracotta",
+      "required": false
+    }
   ]
 }

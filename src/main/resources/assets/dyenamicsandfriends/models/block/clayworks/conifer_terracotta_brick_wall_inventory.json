@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "dyenamicsandfriends:block/clayworks/conifer_terracotta_bricks"
+  }
+}

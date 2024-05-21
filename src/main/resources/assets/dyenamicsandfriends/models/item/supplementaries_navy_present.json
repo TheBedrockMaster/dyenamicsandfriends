@@ -1,0 +1,11 @@
+{
+  "parent": "dyenamicsandfriends:block/supplementaries/presents/present_opened_navy",
+  "overrides": [
+    {
+      "predicate": {
+        "supplementaries:packed": 1
+      },
+      "model":  "dyenamicsandfriends:block/supplementaries/presents/present_closed_navy"
+    }
+  ]
+}

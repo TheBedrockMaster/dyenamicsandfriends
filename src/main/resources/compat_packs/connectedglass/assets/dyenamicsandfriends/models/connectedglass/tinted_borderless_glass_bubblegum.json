@@ -1,0 +1,9 @@
+{
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "render_type": "translucent",
+  "loader": "fusion:model",
+  "textures": {
+    "all": "dyenamicsandfriends:connectedglass/tinted_borderless_glass/tinted_borderless_glass_bubblegum"
+  }
+}

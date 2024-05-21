@@ -1,0 +1,40 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "clayworks:config",
+          "value": "terracotta_bricks"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "group": "stained_terracotta_bricks",
+        "key": {
+          "#": {
+            "item": "clayworks:terracotta_bricks"
+          },
+          "X": {
+            "tag": "forge:dyes/spring_green"
+          }
+        },
+        "pattern": [
+          "###",
+          "#X#",
+          "###"
+        ],
+        "result": {
+          "count": 8,
+          "item": "dyenamicsandfriends:clayworks_spring_green_terracotta_bricks"
+        }
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ]
+}

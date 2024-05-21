@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_peach",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_aquamarine",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_fluorescent",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_mint",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_maroon",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_bubblegum",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_lavender",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_persimmon",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_cherenkov",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_amber",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_honey",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_icy_blue",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_navy",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_spring_green",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_ultramarine",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_rose",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_wine",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:connectedglass_tinted_borderless_glass_conifer",
+      "required": false
+    }
+  ]
+}

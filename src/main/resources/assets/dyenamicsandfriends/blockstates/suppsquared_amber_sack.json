@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "open=false": {
+      "model": "dyenamicsandfriends:block/suppsquared/sacks/amber_closed"
+    },
+    "open=true": {
+      "model": "dyenamicsandfriends:block/suppsquared/sacks/amber_open"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "entity/sleep_tight/hammocks",
+      "prefix": "entity/sleep_tight/hammocks/"
+    }
+  ]
+}

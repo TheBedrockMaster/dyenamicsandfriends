@@ -1,0 +1,7 @@
+{
+  "parent": "handcrafted:block/cushion",
+  "textures": {
+    "particle": "dyenamics:block/honey_wool",
+    "texture": "dyenamicsandfriends:block/handcrafted/cushion/honey_cushion"
+  }
+}

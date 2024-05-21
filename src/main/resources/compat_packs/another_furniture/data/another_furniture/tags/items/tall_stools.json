@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:another_furniture_peach_tall_stool",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:another_furniture_aquamarine_tall_stool",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:another_furniture_bubblegum_tall_stool",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:another_furniture_cherenkov_tall_stool",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_lavender_tall_stool",
+      "id": "dyenamicsandfriends:another_furniture_mint_tall_stool",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_mint_tall_stool",
+      "id": "dyenamicsandfriends:another_furniture_bubblegum_tall_stool",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_peach_tall_stool",
+      "id": "dyenamicsandfriends:another_furniture_lavender_tall_stool",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:another_furniture_persimmon_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_cherenkov_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_amber_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_honey_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_icy_blue_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_navy_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_spring_green_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_ultramarine_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_rose_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_wine_tall_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_conifer_tall_stool",
       "required": false
     }
   ]

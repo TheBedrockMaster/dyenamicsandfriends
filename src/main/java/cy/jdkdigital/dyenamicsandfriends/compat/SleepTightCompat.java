@@ -50,13 +50,4 @@ public class SleepTightCompat
             });
         }
     }
-
-    // TODO
-//    public static void stitchTextures(TextureStitchEvent.Pre event) {
-//        if (event.getAtlas().location().equals(DyenamicsHammockBlockTileRenderer.BED_SHEET)) {
-//            Arrays.stream(DyenamicsHammockBlockTileRenderer.HAMMOCK_TEXTURES).forEach((e) -> {
-//                event.addSprite(e.texture());
-//            });
-//        }
-//    }
 }

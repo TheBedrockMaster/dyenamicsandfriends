@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "dyenamics:navy_carpet"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:sleep_tight_navy_hammock"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "sleep_tight"
+    }
+  ]
+}

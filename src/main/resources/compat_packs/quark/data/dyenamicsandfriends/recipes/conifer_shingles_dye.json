@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SDS",
+    "SSS"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:dyes/conifer"
+    },
+    "S": {
+      "item": "quark:shingles"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:quark_conifer_shingles",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    },
+    {
+      "type": "quark:flag",
+      "flag": "shingles"
+    }
+  ]
+} 

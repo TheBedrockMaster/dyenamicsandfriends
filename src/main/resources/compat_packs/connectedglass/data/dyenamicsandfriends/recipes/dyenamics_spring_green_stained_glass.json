@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "dyenamicsandfriends:connectedglass_scratched_glass_spring_green"
+    }
+  },
+  "result": {
+    "item": "dyenamics:spring_green_stained_glass",
+    "count": 4
+  }
+}

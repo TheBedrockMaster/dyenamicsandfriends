@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/navy"
+    },
+    {
+      "tag": "create:seats"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:create_navy_seat"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

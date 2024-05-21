@@ -1,0 +1,7 @@
+{
+  "parent": "connectedglass:pane_item_template",
+  "textures": {
+    "all": "dyenamicsandfriends:connectedglass/borderless_glass/borderless_glass_mint",
+    "edge": "dyenamicsandfriends:connectedglass/borderless_glass/borderless_glass_mint_edge"
+  }
+}

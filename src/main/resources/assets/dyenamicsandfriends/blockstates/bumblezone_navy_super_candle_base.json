@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "lit=false": [
+      {
+        "model": "dyenamicsandfriends:block/bumblezone/super_candle/candle_base_navy"
+      },
+      {
+        "model": "dyenamicsandfriends:block/bumblezone/super_candle/candle_base_navy_mirrored"
+      }
+    ],
+    "lit=true": [
+      {
+        "model": "dyenamicsandfriends:block/bumblezone/super_candle/candle_base_lit_navy"
+      },
+      {
+        "model": "dyenamicsandfriends:block/bumblezone/super_candle/candle_base_lit_navy_mirrored"
+      }
+    ]
+  }
+}

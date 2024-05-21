@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "render_type": "translucent",
+  "textures": {
+    "edge": "quark:block/framed_glass_pane_top",
+    "pane": "dyenamicsandfriends:block/quark/framed_glass/amber"
+  }
+}

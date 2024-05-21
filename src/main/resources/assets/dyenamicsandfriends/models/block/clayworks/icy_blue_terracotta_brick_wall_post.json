@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "dyenamicsandfriends:block/clayworks/icy_blue_terracotta_bricks"
+  }
+}

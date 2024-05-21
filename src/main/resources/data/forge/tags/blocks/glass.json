@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:quark_peach_framed_glass",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:quark_aquamarine_framed_glass",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:quark_bubblegum_framed_glass",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:quark_cherenkov_framed_glass",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:quark_lavender_framed_glass",
+      "id": "dyenamicsandfriends:quark_mint_framed_glass",
       "required": false
     },
     {
@@ -26,11 +22,11 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:quark_mint_framed_glass",
+      "id": "dyenamicsandfriends:quark_bubblegum_framed_glass",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:quark_peach_framed_glass",
+      "id": "dyenamicsandfriends:quark_lavender_framed_glass",
       "required": false
     },
     {
@@ -38,31 +34,43 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_aquamarine_crystal_glass",
+      "id": "dyenamicsandfriends:quark_cherenkov_framed_glass",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_bubblegum_crystal_glass",
+      "id": "dyenamicsandfriends:quark_amber_framed_glass",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_cherenkov_crystal_glass",
+      "id": "dyenamicsandfriends:quark_honey_framed_glass",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_fluorescent_crystal_glass",
+      "id": "dyenamicsandfriends:quark_icy_blue_framed_glass",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_lavender_crystal_glass",
+      "id": "dyenamicsandfriends:quark_navy_framed_glass",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_maroon_crystal_glass",
+      "id": "dyenamicsandfriends:quark_spring_green_framed_glass",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:oreganized_mint_crystal_glass",
+      "id": "dyenamicsandfriends:quark_ultramarine_framed_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:quark_rose_framed_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:quark_wine_framed_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:quark_conifer_framed_glass",
       "required": false
     },
     {
@@ -70,7 +78,71 @@
       "required": false
     },
     {
+      "id": "dyenamicsandfriends:oreganized_aquamarine_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_fluorescent_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_mint_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_maroon_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_bubblegum_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_lavender_crystal_glass",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:oreganized_persimmon_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_cherenkov_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_amber_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_honey_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_icy_blue_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_navy_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_spring_green_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_ultramarine_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_rose_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_wine_crystal_glass",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:oreganized_conifer_crystal_glass",
       "required": false
     }
   ]

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chalk:chalk",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "dyenamics:icy_blue_dye"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:chalk_icy_blue_chalk"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "chalk"
+    }
+  ]
+}

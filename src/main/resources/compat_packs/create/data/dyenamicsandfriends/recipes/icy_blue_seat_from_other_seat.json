@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/icy_blue"
+    },
+    {
+      "tag": "create:seats"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:create_icy_blue_seat"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

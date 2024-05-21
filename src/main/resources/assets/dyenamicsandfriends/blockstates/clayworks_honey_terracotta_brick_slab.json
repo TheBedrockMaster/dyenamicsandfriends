@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dyenamicsandfriends:block/clayworks/honey_terracotta_brick_slab"
+    },
+    "type=double": {
+      "model": "dyenamicsandfriends:block/clayworks/honey_terracotta_bricks"
+    },
+    "type=top": {
+      "model": "dyenamicsandfriends:block/clayworks/honey_terracotta_brick_slab_top"
+    }
+  }
+}

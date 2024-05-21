@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:botanypots_peach_concrete_hopper_botany_pot",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:botanypots_aquamarine_concrete_hopper_botany_pot",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:botanypots_bubblegum_concrete_hopper_botany_pot",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:botanypots_cherenkov_concrete_hopper_botany_pot",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_lavender_concrete_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_mint_concrete_hopper_botany_pot",
       "required": false
     },
     {
@@ -26,11 +22,11 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_mint_concrete_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_bubblegum_concrete_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_peach_concrete_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_lavender_concrete_hopper_botany_pot",
       "required": false
     },
     {
@@ -38,31 +34,43 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_aquamarine_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_cherenkov_concrete_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_bubblegum_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_amber_concrete_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_cherenkov_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_honey_concrete_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_fluorescent_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_icy_blue_concrete_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_lavender_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_navy_concrete_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_maroon_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_spring_green_concrete_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_mint_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_ultramarine_concrete_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_rose_concrete_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_wine_concrete_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_conifer_concrete_hopper_botany_pot",
       "required": false
     },
     {
@@ -70,35 +78,71 @@
       "required": false
     },
     {
+      "id": "dyenamicsandfriends:botanypots_aquamarine_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_fluorescent_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_mint_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_maroon_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_bubblegum_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_lavender_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:botanypots_persimmon_terracotta_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_aquamarine_glazed_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_cherenkov_terracotta_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_bubblegum_glazed_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_amber_terracotta_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_cherenkov_glazed_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_honey_terracotta_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_fluorescent_glazed_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_icy_blue_terracotta_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_lavender_glazed_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_navy_terracotta_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_maroon_glazed_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_spring_green_terracotta_hopper_botany_pot",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:botanypots_mint_glazed_terracotta_hopper_botany_pot",
+      "id": "dyenamicsandfriends:botanypots_ultramarine_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_rose_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_wine_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_conifer_terracotta_hopper_botany_pot",
       "required": false
     },
     {
@@ -106,7 +150,71 @@
       "required": false
     },
     {
+      "id": "dyenamicsandfriends:botanypots_aquamarine_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_fluorescent_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_mint_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_maroon_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_bubblegum_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_lavender_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:botanypots_persimmon_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_cherenkov_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_amber_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_honey_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_icy_blue_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_navy_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_spring_green_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_ultramarine_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_rose_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_wine_glazed_terracotta_hopper_botany_pot",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:botanypots_conifer_glazed_terracotta_hopper_botany_pot",
       "required": false
     }
   ]

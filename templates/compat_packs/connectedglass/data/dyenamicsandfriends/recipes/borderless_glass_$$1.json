@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "dyenamics:$$_stained_glass"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_borderless_glass_$$",
+    "count": 4
+  }
+}

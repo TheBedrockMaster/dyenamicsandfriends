@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stools",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/amber"
+    },
+    {
+      "item": "another_furniture:white_tall_stool"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:another_furniture_amber_tall_stool"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "another_furniture"
+    }
+  ]
+}

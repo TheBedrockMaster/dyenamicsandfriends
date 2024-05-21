@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "connectedglass:scratched_glass_pane"
+    },
+    "B": {
+      "tag": "forge:dyes/honey"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_scratched_glass_honey_pane",
+    "count": 8
+  }
+}

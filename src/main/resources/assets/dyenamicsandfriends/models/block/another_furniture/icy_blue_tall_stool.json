@@ -1,0 +1,6 @@
+{
+  "parent": "another_furniture:block/template/tall_stool",
+  "textures": {
+    "top": "dyenamicsandfriends:block/another_furniture/tall_stool/icy_blue_top"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "dyenamicsandfriends:block/clayworks/wine_terracotta_bricks"
+  }
+}

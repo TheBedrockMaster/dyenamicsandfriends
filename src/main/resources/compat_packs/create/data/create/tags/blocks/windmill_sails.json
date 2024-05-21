@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:create_peach_sail",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:create_aquamarine_sail",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:create_bubblegum_sail",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:create_cherenkov_sail",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:create_lavender_sail",
+      "id": "dyenamicsandfriends:create_mint_sail",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:create_mint_sail",
+      "id": "dyenamicsandfriends:create_bubblegum_sail",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:create_peach_sail",
+      "id": "dyenamicsandfriends:create_lavender_sail",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:create_persimmon_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_cherenkov_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_amber_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_honey_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_icy_blue_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_navy_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_spring_green_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_ultramarine_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_rose_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_wine_sail",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:create_conifer_sail",
       "required": false
     }
   ]

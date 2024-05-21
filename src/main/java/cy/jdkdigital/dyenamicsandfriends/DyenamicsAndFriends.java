@@ -23,10 +23,13 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.storage.loot.entries.LootPoolEntryType;
 import net.minecraft.world.level.storage.loot.predicates.LootItemConditionType;
+import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.loot.IGlobalLootModifier;
 import net.minecraftforge.event.AddPackFindersEvent;
+import net.minecraftforge.fml.DistExecutor;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.forgespi.language.IModFileInfo;
@@ -66,6 +69,7 @@ public class DyenamicsAndFriends
         var modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         modEventBus.addListener(this::commonSetup);
+        modEventBus.addListener(this::clientSetup);
         modEventBus.addListener(this::onPackEvent);
 
         DyenamicRegistry.setup();
@@ -81,11 +85,6 @@ public class DyenamicsAndFriends
         LOOT_SERIALIZERS.register(modEventBus);
         LOOT_POOL_ENTRIES.register(modEventBus);
         LOOT_POOL_CONDITIONS.register(modEventBus);
-
-//        Unable to load model: 'another_furniture:block/template/curtain_pole' referenced from: dyenamicsandfriends:another_furniture_peach_curtain#facing=north,horizontal=single,open=true,vertical=down,waterlogged=true: java.io.FileNotFoundException: another_furniture:models/block/template/curtain_pole.json
-//        Unable to load model: 'handcrafted:block/cushion/cushion' referenced from: dyenamicsandfriends:handcrafted_peach_cushion#: java.io.FileNotFoundException: handcrafted:models/block/cushion/cushion.json
-//        Unable to load model: 'furnish:block/curtain/parent/curtain_open' referenced from: dyenamicsandfriends:furnish_peach_curtain#down=true,facing=north,left=true,open=true,powered=true,right=true,up=true: java.io.FileNotFoundException: furnish:models/block/curtain/parent/curtain_open.json
-//        Unable to load model: 'furnish:block/curtain/parent/curtain' referenced from: dyenamicsandfriends:furnish_peach_curtain#down=true,facing=north,left=true,open=true,powered=true,right=true,up=true: java.io.FileNotFoundException: furnish:models/block/curtain/parent/curtain.json
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)
@@ -95,31 +94,60 @@ public class DyenamicsAndFriends
         }
     }
 
+    private void clientSetup(final FMLClientSetupEvent event)
+    {
+        DyenamicRegistry.clientRegister();
+    }
+
     private void onPackEvent(AddPackFindersEvent event) {
         if (event.getPackType() == PackType.SERVER_DATA) {
-            event.addRepositorySource(new ModLoadedPackFinder());
+            event.addRepositorySource(new ModLoadedPackFinder(event.getPackType()));
+        }
+        if (event.getPackType() == PackType.CLIENT_RESOURCES) {
+            event.addRepositorySource(new ModLoadedPackFinder(event.getPackType()));
         }
     }
 
     private static class ModLoadedPackFinder implements RepositorySource
     {
+        private final PackType packType;
+
+        public ModLoadedPackFinder(PackType packType) {
+            this.packType = packType;
+        }
+
         @Override
         public void loadPacks(Consumer<Pack> packLoader) {
             IModFileInfo modFile = ModList.get().getModContainerById(DyenamicsAndFriends.MODID).get().getModInfo().getOwningFile();
 
             for (String modId : DyenamicRegistry.MODS) {
                 try {
-                    if (ModList.get().isLoaded(modId)) {
-                        var pack = Pack.readMetaAndCreate(
-                                DyenamicsAndFriends.MODID + ":" + modId,
-                                Component.translatable("dataPack." + MODID + "." + modId),
-                                false,
-                                (name) -> new PathPackResources(DyenamicsAndFriends.MODID + ":" + modId, true,modFile.getFile().findResource("compat_packs/" + modId + "/")),
-                                PackType.SERVER_DATA,
-                                Pack.Position.TOP,
-                                PackSource.BUILT_IN
-                        );
-                        packLoader.accept(pack);
+                    if (ModList.get().isLoaded(modId) && DyenamicRegistry.MODS.contains(modId)) {
+                        if (packType.equals(PackType.SERVER_DATA)) {
+                            var pack = Pack.readMetaAndCreate(
+                                    DyenamicsAndFriends.MODID + ":" + modId,
+                                    Component.translatable("dataPack." + MODID + "." + modId),
+                                    true,
+                                    (name) -> new PathPackResources(DyenamicsAndFriends.MODID + ":" + modId, true, modFile.getFile().findResource("compat_packs/" + modId + "/")),
+                                    PackType.SERVER_DATA,
+                                    Pack.Position.TOP,
+                                    PackSource.BUILT_IN
+                            );
+                            packLoader.accept(pack);
+                        }
+                        if (packType.equals(PackType.CLIENT_RESOURCES) && modId.equals("connectedglass")) {
+                            DyenamicsAndFriends.LOGGER.info("adding connected glass resourcepack");
+                            var clientPack = Pack.readMetaAndCreate(
+                                    DyenamicsAndFriends.MODID + ":" + modId + "_resources",
+                                    Component.translatable("resourcePack." + MODID + "." + modId),
+                                    true,
+                                    (name) -> new PathPackResources(DyenamicsAndFriends.MODID + ":" + modId + "_resources", true, modFile.getFile().findResource("compat_packs/" + modId + "/")),
+                                    PackType.CLIENT_RESOURCES,
+                                    Pack.Position.TOP,
+                                    PackSource.BUILT_IN
+                            );
+                            packLoader.accept(clientPack);
+                        }
                     }
                 } catch (Exception e) {
                     DyenamicsAndFriends.LOGGER.debug("Failed to load compat pack: " + modId);

@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:another_furniture_peach_stool",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:another_furniture_aquamarine_stool",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:another_furniture_bubblegum_stool",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:another_furniture_cherenkov_stool",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_lavender_stool",
+      "id": "dyenamicsandfriends:another_furniture_mint_stool",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_mint_stool",
+      "id": "dyenamicsandfriends:another_furniture_bubblegum_stool",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_peach_stool",
+      "id": "dyenamicsandfriends:another_furniture_lavender_stool",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:another_furniture_persimmon_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_cherenkov_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_amber_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_honey_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_icy_blue_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_navy_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_spring_green_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_ultramarine_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_rose_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_wine_stool",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_conifer_stool",
       "required": false
     }
   ]

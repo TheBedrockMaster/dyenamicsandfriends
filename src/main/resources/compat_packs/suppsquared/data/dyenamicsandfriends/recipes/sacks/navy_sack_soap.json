@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyenamicsandfriends:suppsquared_navy_sack"
+    },
+    {
+      "item": "supplementaries:soap"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:sack"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "suppsquared"
+    },
+    {
+      "type": "supplementaries:flag",
+      "flag": "sack"
+    }
+  ]
+}

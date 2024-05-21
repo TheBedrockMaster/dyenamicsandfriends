@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dyenamicsandfriends:block/oreganized/conifer_crystal_glass"
+  }
+}

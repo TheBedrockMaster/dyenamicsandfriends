@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "dyenamicsandfriends:connectedglass_clear_glass_persimmon_pane"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_scratched_glass_persimmon_pane",
+    "count": 4
+  }
+}

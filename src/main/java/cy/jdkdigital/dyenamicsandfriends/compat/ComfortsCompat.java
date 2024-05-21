@@ -57,17 +57,4 @@ public class ComfortsCompat
             });
         }
     }
-
-    // TODO
-//    public static void stitchTextures(TextureStitchEvent.Pre event) {
-//        if (event.getAtlas().location() == InventoryMenu.BLOCK_ATLAS) {
-//            Arrays.stream(DyenamicsHammockBlockRenderer.HAMMOCK_TEXTURES).forEach((e) -> {
-//                // TODO change textures to a map and exclude vanilla colors
-//                event.addSprite(e.texture());
-//            });
-//            Arrays.stream(DyenamicsSleepingBagBlockRenderer.SLEEPING_BAG_TEXTURES).forEach((e) -> {
-//                event.addSprite(e.texture());
-//            });
-//        }
-//    }
 }

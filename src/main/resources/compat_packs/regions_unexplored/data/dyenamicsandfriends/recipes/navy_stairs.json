@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x  ",
+    "xx ",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "dyenamicsandfriends:regions_unexplored_navy_painted_planks"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:regions_unexplored_navy_painted_stairs",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ]
+}

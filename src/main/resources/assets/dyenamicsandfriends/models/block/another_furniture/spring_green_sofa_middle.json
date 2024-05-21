@@ -1,0 +1,11 @@
+{
+  "parent": "another_furniture:block/template/sofa_middle",
+  "render_type": "cutout",
+  "textures": {
+    "seat_top": "dyenamicsandfriends:block/another_furniture/sofa/spring_green_seat_middle",
+    "seat_front": "dyenamicsandfriends:block/another_furniture/sofa/spring_green_seat_front",
+    "seat_side": "dyenamicsandfriends:block/another_furniture/sofa/spring_green_seat_side",
+    "seat_back_1": "dyenamicsandfriends:block/another_furniture/sofa/spring_green_seat_back_1",
+    "back": "dyenamicsandfriends:block/another_furniture/sofa/spring_green_back"
+  }
+}

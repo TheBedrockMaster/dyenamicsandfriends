@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dyenamicsandfriends:block/clayworks/rose_terracotta_chiseled_bricks"
+  }
+}

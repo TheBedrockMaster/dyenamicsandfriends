@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "dyenamicsandfriends:connectedglass_scratched_glass_bubblegum_pane"
+    }
+  },
+  "result": {
+    "item": "dyenamics:bubblegum_stained_glass_pane",
+    "count": 4
+  }
+}

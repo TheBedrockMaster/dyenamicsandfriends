@@ -1,0 +1,9 @@
+{
+  "parent": "supplementaries:block/present_closed_template",
+  "textures": {
+    "bottom": "dyenamicsandfriends:block/supplementaries/presents/present_bottom_spring_green",
+    "top": "dyenamicsandfriends:block/supplementaries/presents/present_top_spring_green",
+    "particle": "dyenamicsandfriends:block/supplementaries/presents/present_side_spring_green",
+    "side": "dyenamicsandfriends:block/supplementaries/presents/present_side_spring_green"
+  }
+}

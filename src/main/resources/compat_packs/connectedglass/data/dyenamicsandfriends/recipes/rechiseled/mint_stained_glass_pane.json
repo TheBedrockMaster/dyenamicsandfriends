@@ -1,0 +1,22 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "connecting_item": "connectedglass:borderless_glass_mint_pane",
+      "item": "dyenamics:mint_stained_glass_pane"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_clear_glass_mint_pane"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_scratched_glass_mint_pane"
+    }
+  ],
+  "overwrite": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rechiseled"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "clayworks:config",
+          "value": "terracotta_bricks"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "#": {
+            "item": "dyenamicsandfriends:clayworks_conifer_terracotta_brick_slab"
+          }
+        },
+        "pattern": [
+          "#",
+          "#"
+        ],
+        "result": {
+          "item": "dyenamicsandfriends:clayworks_conifer_terracotta_chiseled_bricks"
+        }
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ]
+}

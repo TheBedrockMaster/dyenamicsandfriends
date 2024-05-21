@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=0": {
+      "model": "dyenamicsandfriends:block/oreganized/icy_blue_crystal_glass"
+    },
+    "type=1": {
+      "model": "dyenamicsandfriends:block/oreganized/icy_blue_crystal_glass_rot"
+    },
+    "type=2": {
+      "model": "dyenamicsandfriends:block/oreganized/icy_blue_crystal_glass_in"
+    },
+    "type=3": {
+      "model": "dyenamicsandfriends:block/oreganized/icy_blue_crystal_glass_out"
+    }
+  }
+}

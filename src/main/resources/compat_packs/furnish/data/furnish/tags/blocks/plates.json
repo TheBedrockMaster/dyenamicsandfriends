@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:furnish_peach_plate",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:furnish_aquamarine_plate",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_bubblegum_plate",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_cherenkov_plate",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_lavender_plate",
+      "id": "dyenamicsandfriends:furnish_mint_plate",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_mint_plate",
+      "id": "dyenamicsandfriends:furnish_bubblegum_plate",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_peach_plate",
+      "id": "dyenamicsandfriends:furnish_lavender_plate",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:furnish_persimmon_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_cherenkov_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_amber_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_honey_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_icy_blue_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_navy_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_spring_green_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_ultramarine_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_rose_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_wine_plate",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_conifer_plate",
       "required": false
     }
   ]

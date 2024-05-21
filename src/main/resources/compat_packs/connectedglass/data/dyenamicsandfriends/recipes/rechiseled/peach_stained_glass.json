@@ -1,0 +1,22 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "connecting_item": "connectedglass:borderless_glass_peach",
+      "item": "dyenamics:peach_stained_glass"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_clear_glass_peach"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_scratched_glass_peach"
+    }
+  ],
+  "overwrite": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rechiseled"
+    }
+  ]
+}

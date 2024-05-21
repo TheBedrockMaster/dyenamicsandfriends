@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dyenamicsandfriends:block/oreganized/icy_blue_crystal_glass"
+  }
+}

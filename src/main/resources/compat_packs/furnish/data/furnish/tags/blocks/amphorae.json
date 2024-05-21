@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:furnish_peach_amphora",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:furnish_aquamarine_amphora",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_bubblegum_amphora",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_cherenkov_amphora",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_lavender_amphora",
+      "id": "dyenamicsandfriends:furnish_mint_amphora",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_mint_amphora",
+      "id": "dyenamicsandfriends:furnish_bubblegum_amphora",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_peach_amphora",
+      "id": "dyenamicsandfriends:furnish_lavender_amphora",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:furnish_persimmon_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_cherenkov_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_amber_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_honey_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_icy_blue_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_navy_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_spring_green_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_ultramarine_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_rose_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_wine_amphora",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_conifer_amphora",
       "required": false
     }
   ]

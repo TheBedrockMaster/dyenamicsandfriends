@@ -1,0 +1,22 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "connecting_item": "connectedglass:borderless_glass_wine",
+      "item": "dyenamics:wine_stained_glass"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_clear_glass_wine"
+    },
+    {
+      "connecting_item": "dyenamicsandfriends:connectedglass_scratched_glass_wine"
+    }
+  ],
+  "overwrite": false,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rechiseled"
+    }
+  ]
+}

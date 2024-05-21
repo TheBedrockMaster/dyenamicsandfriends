@@ -1,0 +1,8 @@
+{
+  "parent": "suppsquared:block/candle_holders/floor_3",
+  "textures": {
+    "2": "suppsquared:block/candle_holder",
+    "particle": "suppsquared:block/candle_holder",
+    "all": "dyenamics:block/conifer_candle_lit"
+  }
+}

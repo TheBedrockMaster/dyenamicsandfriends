@@ -2,39 +2,75 @@
   "replace": false,
   "values": [
     {
-      "id": "dyenamicsandfriends:comforts_aquamarinesleeping_bag",
+      "id": "dyenamicsandfriends:comforts_peach_sleeping_bag",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:comforts_bubblegumsleeping_bag",
+      "id": "dyenamicsandfriends:comforts_aquamarine_sleeping_bag",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:comforts_cherenkovsleeping_bag",
+      "id": "dyenamicsandfriends:comforts_fluorescent_sleeping_bag",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:comforts_fluorescentsleeping_bag",
+      "id": "dyenamicsandfriends:comforts_mint_sleeping_bag",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:comforts_lavendersleeping_bag",
+      "id": "dyenamicsandfriends:comforts_maroon_sleeping_bag",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:comforts_maroonsleeping_bag",
+      "id": "dyenamicsandfriends:comforts_bubblegum_sleeping_bag",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:comforts_mintsleeping_bag",
+      "id": "dyenamicsandfriends:comforts_lavender_sleeping_bag",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:comforts_peachsleeping_bag",
+      "id": "dyenamicsandfriends:comforts_persimmon_sleeping_bag",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:comforts_persimmonsleeping_bag",
+      "id": "dyenamicsandfriends:comforts_cherenkov_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_amber_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_honey_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_icy_blue_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_navy_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_spring_green_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_ultramarine_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_rose_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_wine_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:comforts_conifer_sleeping_bag",
       "required": false
     }
   ]

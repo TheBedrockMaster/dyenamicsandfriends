@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:another_furniture_peach_sofa",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:another_furniture_aquamarine_sofa",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:another_furniture_bubblegum_sofa",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:another_furniture_cherenkov_sofa",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_lavender_sofa",
+      "id": "dyenamicsandfriends:another_furniture_mint_sofa",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_mint_sofa",
+      "id": "dyenamicsandfriends:another_furniture_bubblegum_sofa",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:another_furniture_peach_sofa",
+      "id": "dyenamicsandfriends:another_furniture_lavender_sofa",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:another_furniture_persimmon_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_cherenkov_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_amber_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_honey_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_icy_blue_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_navy_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_spring_green_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_ultramarine_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_rose_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_wine_sofa",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:another_furniture_conifer_sofa",
       "required": false
     }
   ]

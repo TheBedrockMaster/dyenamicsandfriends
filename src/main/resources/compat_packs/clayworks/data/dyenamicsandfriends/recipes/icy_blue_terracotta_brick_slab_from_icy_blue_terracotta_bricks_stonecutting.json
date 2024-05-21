@@ -1,0 +1,27 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "clayworks:config",
+          "value": "terracotta_bricks"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:stonecutting",
+        "count": 2,
+        "ingredient": {
+          "item": "dyenamicsandfriends:clayworks_icy_blue_terracotta_bricks"
+        },
+        "result": "dyenamicsandfriends:clayworks_icy_blue_terracotta_brick_slab"
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ]
+}

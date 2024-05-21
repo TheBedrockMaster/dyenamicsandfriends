@@ -1,0 +1,9 @@
+{
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "render_type": "translucent",
+  "loader": "fusion:model",
+  "textures": {
+    "all": "dyenamicsandfriends:connectedglass/scratched_glass/scratched_glass_icy_blue"
+  }
+}

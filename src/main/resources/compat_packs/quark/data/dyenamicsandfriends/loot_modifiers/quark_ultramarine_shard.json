@@ -1,0 +1,14 @@
+{
+    "conditions": [
+        {
+            "condition": "dyenamicsandfriends:mod_loaded",
+            "modid": "quark"
+        },
+        {
+            "condition": "forge:loot_table_id",
+            "loot_table_id": "dyenamics:blocks/ultramarine_stained_glass"
+        }
+    ],
+    "type": "dyenamicsandfriends:shard",
+    "addition": "dyenamicsandfriends:quark_ultramarine_shard"
+}

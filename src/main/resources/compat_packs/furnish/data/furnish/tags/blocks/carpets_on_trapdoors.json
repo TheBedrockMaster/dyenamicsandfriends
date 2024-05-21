@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:furnish_peach_carpet_on_trapdoor",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:furnish_aquamarine_carpet_on_trapdoor",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_bubblegum_carpet_on_trapdoor",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_cherenkov_carpet_on_trapdoor",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_lavender_carpet_on_trapdoor",
+      "id": "dyenamicsandfriends:furnish_mint_carpet_on_trapdoor",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_mint_carpet_on_trapdoor",
+      "id": "dyenamicsandfriends:furnish_bubblegum_carpet_on_trapdoor",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_peach_carpet_on_trapdoor",
+      "id": "dyenamicsandfriends:furnish_lavender_carpet_on_trapdoor",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:furnish_persimmon_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_cherenkov_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_amber_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_honey_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_icy_blue_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_navy_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_spring_green_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_ultramarine_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_rose_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_wine_carpet_on_trapdoor",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_conifer_carpet_on_trapdoor",
       "required": false
     }
   ]

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "dyenamicsandfriends:block/clayworks/spring_green_terracotta_bricks",
+    "side": "dyenamicsandfriends:block/clayworks/spring_green_terracotta_bricks",
+    "top": "dyenamicsandfriends:block/clayworks/spring_green_terracotta_bricks"
+  }
+}

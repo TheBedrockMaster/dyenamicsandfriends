@@ -1,0 +1,10 @@
+{
+  "parent": "supplementaries:block/sack_open",
+  "textures": {
+    "1": "dyenamicsandfriends:block/suppsquared/sacks/spring_green_sack_front",
+    "2": "dyenamicsandfriends:block/suppsquared/sacks/spring_green_sack_top",
+    "3": "dyenamicsandfriends:block/suppsquared/sacks/spring_green_sack_bottom",
+    "4": "dyenamicsandfriends:block/suppsquared/sacks/spring_green_sack_open",
+    "particle": "dyenamicsandfriends:block/suppsquared/sacks/spring_green_sack_front"
+  }
+}

@@ -1,12 +1,12 @@
 package cy.jdkdigital.dyenamicsandfriends.common.block.entity.furnish;
 
 import cy.jdkdigital.dyenamicsandfriends.common.block.furnish.DyenamicsAmphora;
-import io.github.wouink.furnish.block.tileentity.AmphoraTileEntity;
+import io.github.wouink.furnish.block.blockentity.AmphoraBlockEntity;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.block.state.BlockState;
 
-public class DyenamicsAmphoraBlockEntity extends AmphoraTileEntity
+public class DyenamicsAmphoraBlockEntity extends AmphoraBlockEntity
 {
     private final DyenamicsAmphora amphora;
 

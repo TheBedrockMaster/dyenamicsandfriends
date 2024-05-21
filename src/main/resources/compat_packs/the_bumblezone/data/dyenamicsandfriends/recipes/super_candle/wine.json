@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "the_bumblezone",
+  "ingredients": [
+    {
+      "item": "the_bumblezone:super_candle"
+    },
+    {
+      "tag": "forge:dyes/wine"
+    },
+    {
+      "tag": "forge:dyes/wine"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:bumblezone_wine_super_candle_base"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "the_bumblezone"
+    }
+  ]
+}

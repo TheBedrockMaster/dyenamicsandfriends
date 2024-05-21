@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "type=double": {
+      "model": "dyenamicsandfriends:block/clayworks/amber_terracotta_bricks"
+    },
+    "type=east": {
+      "model": "dyenamicsandfriends:block/clayworks/amber_terracotta_brick_vertical_slab",
+      "uvlock": true,
+      "y": 90
+    },
+    "type=north": {
+      "model": "dyenamicsandfriends:block/clayworks/amber_terracotta_brick_vertical_slab",
+      "uvlock": true
+    },
+    "type=south": {
+      "model": "dyenamicsandfriends:block/clayworks/amber_terracotta_brick_vertical_slab",
+      "uvlock": true,
+      "y": 180
+    },
+    "type=west": {
+      "model": "dyenamicsandfriends:block/clayworks/amber_terracotta_brick_vertical_slab",
+      "uvlock": true,
+      "y": 270
+    }
+  }
+}

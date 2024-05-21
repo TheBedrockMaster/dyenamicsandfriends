@@ -1,0 +1,6 @@
+{
+  "parent": "create:block/white_sail",
+  "textures": {
+    "0": "dyenamicsandfriends:block/create/sail/canvas_navy"
+  }
+}

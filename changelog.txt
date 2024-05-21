@@ -1,73 +1,14 @@
-1.19.2-1.5.8
+1.20.1-1.7.0
 
-- Updated to work with new version of Comforts
-
-
-1.19.2-1.5.7
-
-- Fixed compat with new version of Another Furniture
+- Updated to use the new dyes from Dyenamics
 
 
-1.19.2-1.5.6
+1.20.1-1.6.1
 
-- Renamed some recipes that wouldn't load otherwise
-
-
-1.19.2-1.5.5
-
-- Chalk compat is back baby!
+- Updated Furnish compat
 
 
-1.19.2-1.5.4
+1.20.1-1.6.0
 
-- Fixed Create seat blocks using Another Furniture classes
-
-
-1.19.2-1.5.3
-
-- Updated Furnish compat to match new curtain style
-- Made Chalk compat not crash with new version, not it's just broken
-- Fixed Quark shard recipes
-
-
-1.19.2-1.5.2
-
-- Updated to work with Create 0.5.1
-- Fixed botany pots not ticking
-
-
-1.19.2-0.1.5.1
-
-- Fix crash when Botania is installed
-
-
-1.19.2-0.1.5.0
-
-- Added Supplementaries compat
-- Added Farmers Delight compat
-- Added Chalk compat
-- Added Regions Unexplored compat
-
-
-1.19.2-0.1.4.3
-
-- Fix a tag loading problem when botany pots was not installed
-
-
-1.19.2-0.1.4.2
-
-- Added Sleep Tight compat
-- Added Oreganized Waxed Concrete
-- Added missing Clayworks Chiseled Terracotta Bricks recipes
-- Fixed crash with latest version of Furnish (v22)
-
-
-1.19.2-0.1.4.0
-
-- Added Bumblezone compat
-- Added Clayworks compat
-
-
-1.19.2-0.1.3.0
-
-- Added Oreganized Crystal Glass compat. Big thanks to iridescent.bagel for the textures!
+- Updated to 1.20.1
+- Compatible mods: another_furniture, productivebees, connectedglass, botanypots, comforts, elevatorid, furnish, regions_unexplored, sleep_tight

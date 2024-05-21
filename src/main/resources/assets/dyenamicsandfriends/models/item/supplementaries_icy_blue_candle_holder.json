@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dyenamicsandfriends:item/supplementaries/candle_holders/icy_blue"
+  }
+}

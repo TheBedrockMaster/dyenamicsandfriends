@@ -1,0 +1,8 @@
+{
+  "parent": "another_furniture:block/template/lamp_tall_top",
+  "render_type": "cutout",
+  "textures": {
+    "top": "dyenamicsandfriends:block/another_furniture/lamp/icy_blue_top",
+    "side": "dyenamicsandfriends:block/another_furniture/lamp/icy_blue_side"
+  }
+}

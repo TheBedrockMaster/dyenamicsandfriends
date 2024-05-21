@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "entity/comforts/hammock",
+      "prefix": "entity/comforts/hammock/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/comforts/sleeping_bag",
+      "prefix": "entity/comforts/sleeping_bag/"
+    },
+    {
+      "type": "directory",
+      "source": "connectedglass/borderless_glass",
+      "prefix": "connectedglass/borderless_glass/"
+    },
+    {
+      "type": "directory",
+      "source": "connectedglass/clear_glass",
+      "prefix": "connectedglass/clear_glass/"
+    },
+    {
+      "type": "directory",
+      "source": "connectedglass/scratched_glass",
+      "prefix": "connectedglass/scratched_glass/"
+    },
+    {
+      "type": "directory",
+      "source": "connectedglass/tinted_borderless_glass",
+      "prefix": "connectedglass/tinted_borderless_glass/"
+    }
+  ]
+}

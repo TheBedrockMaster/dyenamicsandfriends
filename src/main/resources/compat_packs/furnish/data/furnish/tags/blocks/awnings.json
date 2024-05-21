@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:furnish_peach_awning",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:furnish_aquamarine_awning",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_bubblegum_awning",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:furnish_cherenkov_awning",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_lavender_awning",
+      "id": "dyenamicsandfriends:furnish_mint_awning",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_mint_awning",
+      "id": "dyenamicsandfriends:furnish_bubblegum_awning",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:furnish_peach_awning",
+      "id": "dyenamicsandfriends:furnish_lavender_awning",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:furnish_persimmon_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_cherenkov_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_amber_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_honey_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_icy_blue_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_navy_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_spring_green_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_ultramarine_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_rose_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_wine_awning",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:furnish_conifer_awning",
       "required": false
     }
   ]

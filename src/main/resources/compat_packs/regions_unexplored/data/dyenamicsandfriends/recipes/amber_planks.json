@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xdx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "forge:dyes/amber"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:regions_unexplored_amber_painted_planks",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ]
+}

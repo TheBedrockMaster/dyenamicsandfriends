@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "dyenamicsandfriends:block/clayworks/icy_blue_terracotta_bricks",
+    "side": "dyenamicsandfriends:block/clayworks/icy_blue_terracotta_bricks",
+    "top": "dyenamicsandfriends:block/clayworks/icy_blue_terracotta_bricks"
+  }
+}

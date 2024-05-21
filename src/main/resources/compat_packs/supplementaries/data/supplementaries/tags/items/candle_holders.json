@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:supplementaries_peach_candle_holder",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:supplementaries_aquamarine_candle_holder",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:supplementaries_bubblegum_candle_holder",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:supplementaries_cherenkov_candle_holder",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:supplementaries_lavender_candle_holder",
+      "id": "dyenamicsandfriends:supplementaries_mint_candle_holder",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:supplementaries_mint_candle_holder",
+      "id": "dyenamicsandfriends:supplementaries_bubblegum_candle_holder",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:supplementaries_peach_candle_holder",
+      "id": "dyenamicsandfriends:supplementaries_lavender_candle_holder",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:supplementaries_persimmon_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_cherenkov_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_amber_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_honey_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_icy_blue_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_navy_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_spring_green_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_ultramarine_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_rose_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_wine_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:supplementaries_conifer_candle_holder",
       "required": false
     }
   ]

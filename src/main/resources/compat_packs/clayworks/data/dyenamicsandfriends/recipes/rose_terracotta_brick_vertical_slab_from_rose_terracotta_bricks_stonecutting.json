@@ -1,0 +1,36 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "clayworks:config",
+              "value": "terracotta_bricks"
+            },
+            {
+              "type": "blueprint:quark_flag",
+              "flag": "vertical_slabs"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:stonecutting",
+        "count": 2,
+        "ingredient": {
+          "item": "dyenamicsandfriends:clayworks_rose_terracotta_bricks"
+        },
+        "result": "dyenamicsandfriends:clayworks_rose_terracotta_brick_vertical_slab"
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ]
+}

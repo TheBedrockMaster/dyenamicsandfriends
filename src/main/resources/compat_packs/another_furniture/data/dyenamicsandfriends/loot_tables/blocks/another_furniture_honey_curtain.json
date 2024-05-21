@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "dyenamicsandfriends:optional_loot_item",
+          "conditions": [
+            {
+              "condition": "dyenamicsandfriends:optional_block_state_property",
+              "block": "dyenamicsandfriends:another_furniture_honey_curtain",
+              "properties": {
+                "vertical": "up"
+              }
+            }
+          ],
+          "name": "dyenamicsandfriends:another_furniture_honey_curtain"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

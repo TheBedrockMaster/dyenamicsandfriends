@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "elevatorsRedye",
+  "ingredients": [
+    {
+      "tag": "elevatorid:elevators"
+    },
+    {
+      "tag": "forge:dyes/icy_blue"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:elevatorid_icy_blue_elevator"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "elevatorid"
+    }
+  ]
+}

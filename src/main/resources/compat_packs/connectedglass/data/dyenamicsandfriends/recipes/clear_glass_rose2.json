@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "connectedglass:clear_glass"
+    },
+    "B": {
+      "tag": "forge:dyes/rose"
+    }
+  },
+  "result": {
+    "item": "dyenamicsandfriends:connectedglass_clear_glass_rose",
+    "count": 8
+  }
+}

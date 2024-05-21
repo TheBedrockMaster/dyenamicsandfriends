@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "the_bumblezone",
+  "ingredients": [
+    {
+      "item": "the_bumblezone:super_candle"
+    },
+    {
+      "tag": "forge:dyes/icy_blue"
+    },
+    {
+      "tag": "forge:dyes/icy_blue"
+    }
+  ],
+  "result": {
+    "item": "dyenamicsandfriends:bumblezone_icy_blue_super_candle_base"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "the_bumblezone"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "clayworks:config",
+          "value": "kiln"
+        }
+      ],
+      "recipe": {
+        "type": "clayworks:baking",
+        "cookingtime": 100,
+        "experience": 0.1,
+        "ingredient": {
+          "item": "dyenamics:honey_terracotta"
+        },
+        "result": "dyenamics:honey_glazed_terracotta"
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clayworks"
+    }
+  ]
+}

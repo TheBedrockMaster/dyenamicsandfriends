@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dyenamicsandfriends:block/oreganized/spring_green_crystal_glass"
+  }
+}

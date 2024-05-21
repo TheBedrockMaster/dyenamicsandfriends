@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "packed=false": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/present_opened_honey"
+    },
+    "packed=true": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/present_closed_honey"
+    }
+  }
+}

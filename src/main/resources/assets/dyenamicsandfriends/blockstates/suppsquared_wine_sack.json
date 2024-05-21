@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "open=false": {
+      "model": "dyenamicsandfriends:block/suppsquared/sacks/wine_closed"
+    },
+    "open=true": {
+      "model": "dyenamicsandfriends:block/suppsquared/sacks/wine_open"
+    }
+  }
+}

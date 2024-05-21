@@ -59,5 +59,8 @@ public class ModEventHandler
         if (ModList.get().isLoaded("sleep_tight")) {
             SleepTightCompat.buildTabContents(event);
         }
+        if (ModList.get().isLoaded("connectedglass")) {
+            ConnectedGlassCompat.buildTabContents(event);
+        }
     }
 }

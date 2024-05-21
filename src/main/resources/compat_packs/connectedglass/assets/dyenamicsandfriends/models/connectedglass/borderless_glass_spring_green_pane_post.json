@@ -1,0 +1,18 @@
+{
+  "type": "fusion:connecting",
+  "parent": "connectedglass:block/template_glass_pane_post",
+  "render_type": "translucent",
+  "connections": {
+    "type": "fusion:or",
+    "predicates": [
+      {
+        "type": "fusion:is_same_block"
+      }
+    ]
+  },
+  "loader": "fusion:model",
+  "textures": {
+    "edge": "dyenamicsandfriends:connectedglass/borderless_glass/borderless_glass_spring_green_edge",
+    "pane": "dyenamicsandfriends:connectedglass/borderless_glass/borderless_glass_spring_green"
+  }
+}

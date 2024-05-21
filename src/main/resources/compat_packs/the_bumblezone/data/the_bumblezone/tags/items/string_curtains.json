@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:bumblezone_peach_string_curtain",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:bumblezone_aquamarine_string_curtain",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:bumblezone_bubblegum_string_curtain",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:bumblezone_cherenkov_string_curtain",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:bumblezone_lavender_string_curtain",
+      "id": "dyenamicsandfriends:bumblezone_mint_string_curtain",
       "required": false
     },
     {
@@ -26,11 +22,11 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:bumblezone_mint_string_curtain",
+      "id": "dyenamicsandfriends:bumblezone_bubblegum_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:bumblezone_peach_string_curtain",
+      "id": "dyenamicsandfriends:bumblezone_lavender_string_curtain",
       "required": false
     },
     {
@@ -38,75 +34,43 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_aquamarine_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_cherenkov_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_bubblegum_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_amber_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_cherenkov_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_honey_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_fluorescent_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_icy_blue_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_lavender_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_navy_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_maroon_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_spring_green_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_mint_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_ultramarine_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_peach_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_rose_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_persimmon_terracotta_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_wine_string_curtain",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:clayworks_aquamarine_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_bubblegum_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_cherenkov_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_fluorescent_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_lavender_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_maroon_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_mint_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_peach_terracotta_brick_vertical_slab",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:clayworks_persimmon_terracotta_brick_vertical_slab",
+      "id": "dyenamicsandfriends:bumblezone_conifer_string_curtain",
       "required": false
     }
   ]

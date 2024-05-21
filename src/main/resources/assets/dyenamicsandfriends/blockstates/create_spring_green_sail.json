@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "create:block/green_sail",
+      "x": 180
+    },
+    "facing=up": {
+      "model": "dyenamicsandfriends:block/create/spring_green_sail"
+    },
+    "facing=north": {
+      "model": "dyenamicsandfriends:block/create/spring_green_sail",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "dyenamicsandfriends:block/create/spring_green_sail",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dyenamicsandfriends:block/create/spring_green_sail",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "dyenamicsandfriends:block/create/spring_green_sail",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

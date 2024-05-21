@@ -1,0 +1,8 @@
+{
+  "parent": "botanypots:block/botany_pot_base",
+  "render_type": "cutout",
+  "textures": {
+    "terracotta": "dyenamics:block/honey_concrete",
+    "particle": "dyenamics:block/honey_concrete"
+  }
+}

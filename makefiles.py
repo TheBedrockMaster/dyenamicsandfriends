@@ -1,10 +1,11 @@
 import shutil
 import os
 
-colors = ["peach","aquamarine","fluorescent","mint","maroon","bubblegum","lavender","persimmon","cherenkov"]
+colors = ["peach","aquamarine","fluorescent","mint","maroon","bubblegum","lavender","persimmon","cherenkov","amber","honey","icy_blue","navy","spring_green","ultramarine","rose","wine","conifer"]
 
 for path, subdirs, files in os.walk('templates'):
   for name in files:
+    if name.endswith('.png'): continue
     filename = os.path.join(path, name)
     if "ceramics" in filename:
       continue

@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "facing=north,packed=false": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/trapped_present_opened_conifer"
+    },
+    "facing=east,packed=false": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/trapped_present_opened_conifer",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south,packed=false": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/trapped_present_opened_conifer",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west,packed=false": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/trapped_present_opened_conifer",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=north,packed=true": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/trapped_present_closed_conifer"
+    },
+    "facing=east,packed=true": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/trapped_present_closed_conifer",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south,packed=true": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/trapped_present_closed_conifer",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west,packed=true": {
+      "model": "dyenamicsandfriends:block/supplementaries/presents/trapped_present_closed_conifer",
+      "y": 270,
+      "uvlock": true
+    }
+  }
+}

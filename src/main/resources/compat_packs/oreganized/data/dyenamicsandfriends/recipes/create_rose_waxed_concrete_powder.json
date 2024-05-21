@@ -1,0 +1,27 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "dyenamics:rose_concrete_powder"
+    },
+    {
+      "item": "minecraft:honeycomb_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "dyenamicsandfriends:oreganized_rose_waxed_concrete_powder"
+    }
+  ],
+  "keepHeldItem": true,
+  "conditions": [
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "oreganized"
+    }
+  ]
+}

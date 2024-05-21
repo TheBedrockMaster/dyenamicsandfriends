@@ -1,0 +1,8 @@
+{
+  "parent": "botanypots:block/hopper_botany_pot_base",
+  "render_type": "cutout",
+  "textures": {
+    "terracotta": "dyenamics:block/conifer_glazed_terracotta",
+    "particle": "dyenamics:block/conifer_glazed_terracotta"
+  }
+}

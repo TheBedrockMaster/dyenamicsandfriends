@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:suppsquared_peach_gold_candle_holder",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:suppsquared_aquamarine_gold_candle_holder",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:suppsquared_bubblegum_gold_candle_holder",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:suppsquared_cherenkov_gold_candle_holder",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:suppsquared_lavender_gold_candle_holder",
+      "id": "dyenamicsandfriends:suppsquared_mint_gold_candle_holder",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:suppsquared_mint_gold_candle_holder",
+      "id": "dyenamicsandfriends:suppsquared_bubblegum_gold_candle_holder",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:suppsquared_peach_gold_candle_holder",
+      "id": "dyenamicsandfriends:suppsquared_lavender_gold_candle_holder",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:suppsquared_persimmon_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_cherenkov_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_amber_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_honey_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_icy_blue_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_navy_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_spring_green_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_ultramarine_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_rose_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_wine_gold_candle_holder",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_conifer_gold_candle_holder",
       "required": false
     }
   ]

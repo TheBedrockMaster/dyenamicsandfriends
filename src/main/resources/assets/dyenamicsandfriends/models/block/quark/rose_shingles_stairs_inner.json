@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "dyenamicsandfriends:block/quark/shingles/rose",
+    "top": "dyenamicsandfriends:block/quark/shingles/rose",
+    "side": "dyenamicsandfriends:block/quark/shingles/rose"
+  }
+}

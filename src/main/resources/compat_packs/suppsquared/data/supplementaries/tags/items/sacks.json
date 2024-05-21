@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:suppsquared_peach_sack",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:suppsquared_aquamarine_sack",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:suppsquared_bubblegum_sack",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:suppsquared_cherenkov_sack",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:suppsquared_lavender_sack",
+      "id": "dyenamicsandfriends:suppsquared_mint_sack",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:suppsquared_mint_sack",
+      "id": "dyenamicsandfriends:suppsquared_bubblegum_sack",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:suppsquared_peach_sack",
+      "id": "dyenamicsandfriends:suppsquared_lavender_sack",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:suppsquared_persimmon_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_cherenkov_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_amber_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_honey_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_icy_blue_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_navy_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_spring_green_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_ultramarine_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_rose_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_wine_sack",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:suppsquared_conifer_sack",
       "required": false
     }
   ]

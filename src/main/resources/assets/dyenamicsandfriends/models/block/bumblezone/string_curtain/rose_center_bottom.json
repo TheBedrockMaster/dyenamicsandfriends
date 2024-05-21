@@ -1,0 +1,7 @@
+{
+  "parent": "dyenamicsandfriends:block/bumblezone/template_center_bottom",
+  "textures": {
+    "main": "dyenamicsandfriends:block/bumblezone/string_curtain/rose_bottom",
+    "particle": "dyenamicsandfriends:block/bumblezone/string_curtain/rose_bottom"
+  }
+}

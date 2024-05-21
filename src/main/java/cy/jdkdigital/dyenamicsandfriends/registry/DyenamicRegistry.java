@@ -5,7 +5,6 @@ import cy.jdkdigital.dyenamics.core.util.DyenamicDyeColor;
 import cy.jdkdigital.dyenamicsandfriends.DyenamicsAndFriends;
 import cy.jdkdigital.dyenamicsandfriends.compat.*;
 import net.minecraft.world.item.BlockItem;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.entity.BlockEntity;
@@ -13,7 +12,6 @@ import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.client.event.ModelEvent;
 import net.minecraftforge.client.event.RegisterColorHandlersEvent;
-import net.minecraftforge.client.event.TextureStitchEvent;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.event.level.BlockEvent;
 import net.minecraftforge.fml.ModList;
@@ -27,24 +25,27 @@ import java.util.function.Supplier;
 
 public class DyenamicRegistry
 {
-    public static final List<String> MODS = new ArrayList<>() {{
+    public static final List<String> MODS = new ArrayList<>()
+    {{
         add("another_furniture");
+        add("productivebees");
+        add("connectedglass");
         add("botanypots");
-//        add("ceramics");
-        add("chalk");
-//        add("clayworks");
         add("comforts");
-//        add("create");
         add("elevatorid");
-//        add("farmersdelight");
         add("furnish");
+        add("regions_unexplored");
+        add("sleep_tight");
+//        add("handcrafted"); // OUT! it's hardcoded to only work with the 16 vanilla colors
+//        add("ceramics");
+//        add("chalk");
+//        add("clayworks");
+//        add("create");
+//        add("farmersdelight");
 //        add("glazedresymmetry");
-        add("handcrafted");
 //        add("oreganized");
 //        add("quark");
-        add("sleep_tight");
 //        add("the_bumblezone");
-        add("regions_unexplored");
 //        add("supplementaries");
 //        add("suppsquared");
     }};
@@ -55,10 +56,9 @@ public class DyenamicRegistry
 
     public static void registerCompatBlocks() {
         DyenamicsAndFriends.LOGGER.info("registerCompatBlocks");
-        for (DyenamicDyeColor color: DyenamicDyeColor.dyenamicValues()) {
+        for (DyenamicDyeColor color : DyenamicDyeColor.dyenamicValues()) {
             // Vanilla
             // - banners
-            // - llamas
             //
 
             if (ModList.get().isLoaded("create")) {
@@ -110,8 +110,8 @@ public class DyenamicRegistry
 //                QuarkCompat.registerItems(color);
             }
             if (ModList.get().isLoaded("handcrafted")) {
-                HandcraftedCompat.registerBlocks(color);
-                HandcraftedCompat.registerItems(color);
+//                HandcraftedCompat.registerBlocks(color);
+//                HandcraftedCompat.registerItems(color);
             }
             if (ModList.get().isLoaded("furnish")) {
                 FurnishCompat.registerBlocks(color);
@@ -154,6 +154,15 @@ public class DyenamicRegistry
             if (ModList.get().isLoaded("sleep_tight")) {
                 SleepTightCompat.registerBlocks(color);
             }
+            if (ModList.get().isLoaded("connectedglass")) {
+                ConnectedGlassCompat.registerBlocks(color);
+            }
+        }
+    }
+
+    public static void clientRegister() {
+        if (ModList.get().isLoaded("connectedglass")) {
+            ConnectedGlassCompat.Client.register();
         }
     }
 

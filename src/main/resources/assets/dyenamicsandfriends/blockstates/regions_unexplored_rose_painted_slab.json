@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dyenamicsandfriends:block/regions_unexplored/rose_painted_slab"
+    },
+    "type=top": {
+      "model": "dyenamicsandfriends:block/regions_unexplored/rose_painted_slab_top"
+    },
+    "type=double": {
+      "model": "dyenamicsandfriends:block/regions_unexplored/rose_painted_planks"
+    }
+  }
+}

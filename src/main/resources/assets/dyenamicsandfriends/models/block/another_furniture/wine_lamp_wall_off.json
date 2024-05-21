@@ -1,0 +1,8 @@
+{
+  "parent": "another_furniture:block/template/lamp_wall_off",
+  "render_type": "cutout",
+  "textures": {
+    "top": "dyenamicsandfriends:block/another_furniture/lamp/wine_top",
+    "side": "dyenamicsandfriends:block/another_furniture/lamp/wine_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:block/carpet/parent/carpet_on_stairs",
+  "textures": {
+    "0": "dyenamics:block/navy_wool",
+    "particle": "dyenamics:block/navy_wool"
+  }
+}

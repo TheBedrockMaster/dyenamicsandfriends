@@ -2,15 +2,11 @@
   "replace": false,
   "values": [
     {
+      "id": "dyenamicsandfriends:ceramics_peach_porcelain_cistern",
+      "required": false
+    },
+    {
       "id": "dyenamicsandfriends:ceramics_aquamarine_porcelain_cistern",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:ceramics_bubblegum_porcelain_cistern",
-      "required": false
-    },
-    {
-      "id": "dyenamicsandfriends:ceramics_cherenkov_porcelain_cistern",
       "required": false
     },
     {
@@ -18,7 +14,7 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:ceramics_lavender_porcelain_cistern",
+      "id": "dyenamicsandfriends:ceramics_mint_porcelain_cistern",
       "required": false
     },
     {
@@ -26,15 +22,55 @@
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:ceramics_mint_porcelain_cistern",
+      "id": "dyenamicsandfriends:ceramics_bubblegum_porcelain_cistern",
       "required": false
     },
     {
-      "id": "dyenamicsandfriends:ceramics_peach_porcelain_cistern",
+      "id": "dyenamicsandfriends:ceramics_lavender_porcelain_cistern",
       "required": false
     },
     {
       "id": "dyenamicsandfriends:ceramics_persimmon_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_cherenkov_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_amber_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_honey_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_icy_blue_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_navy_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_spring_green_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_ultramarine_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_rose_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_wine_porcelain_cistern",
+      "required": false
+    },
+    {
+      "id": "dyenamicsandfriends:ceramics_conifer_porcelain_cistern",
       "required": false
     }
   ]
